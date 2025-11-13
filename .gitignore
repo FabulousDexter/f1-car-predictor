@@ -5,6 +5,9 @@ docs/TUTOR2.md
 #f1_cache
 f1_cache/
 
+#Checkpoints
+data/checkpoint.json
+
 # Python
 __pycache__/
 *.py[cod]
