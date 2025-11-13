@@ -2,7 +2,7 @@
 docs/TUTOR.md
 docs/TUTOR2.md
 
-# FastF1 cache directory
+#f1_cache
 f1_cache/
 
 # Python
@@ -17,6 +17,7 @@ ENV/
 build/
 dist/
 *.egg-info/
+tempCodeRunnerFile.py
 
 # IDE
 .vscode/
