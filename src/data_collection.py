@@ -292,4 +292,4 @@ def get_all_sessions(
 
 if __name__ == "__main__":
     # get_all_sessions()
-    get_all_sessions(start_year=2023, end_year=2025, retry_failed=True)
+    get_all_sessions(start_year=2023, end_year=2025)
