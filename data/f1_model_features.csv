@@ -1,0 +1,1298 @@
+Year,RoundNumber,DriverNumber,FullName,TeamName,Position,GridPosition,driver_points_before_race,team_points_before_race
+2023,1,1,Max Verstappen,Red Bull Racing,1,1.0,0.0,0.0
+2023,1,11,Sergio Perez,Red Bull Racing,2,2.0,0.0,0.0
+2023,1,14,Fernando Alonso,Aston Martin,3,5.0,0.0,0.0
+2023,1,55,Carlos Sainz,Ferrari,4,4.0,0.0,0.0
+2023,1,44,Lewis Hamilton,Mercedes,5,7.0,0.0,0.0
+2023,1,18,Lance Stroll,Aston Martin,6,8.0,0.0,0.0
+2023,1,63,George Russell,Mercedes,7,6.0,0.0,0.0
+2023,1,77,Valtteri Bottas,Sauber,8,12.0,0.0,0.0
+2023,1,10,Pierre Gasly,Alpine,9,20.0,0.0,0.0
+2023,1,23,Alexander Albon,Williams,10,15.0,0.0,0.0
+2023,1,22,Yuki Tsunoda,RB F1 Team,11,14.0,0.0,0.0
+2023,1,2,Logan Sargeant,Williams,12,16.0,0.0,0.0
+2023,1,20,Kevin Magnussen,Haas F1 Team,13,17.0,0.0,0.0
+2023,1,21,Nyck De Vries,RB F1 Team,14,19.0,0.0,0.0
+2023,1,27,Nico Hulkenberg,Haas F1 Team,15,10.0,0.0,0.0
+2023,1,24,Guanyu Zhou,Sauber,16,13.0,0.0,0.0
+2023,1,4,Lando Norris,McLaren,17,11.0,0.0,0.0
+2023,1,31,Esteban Ocon,Alpine,18,9.0,0.0,0.0
+2023,1,16,Charles Leclerc,Ferrari,19,3.0,0.0,0.0
+2023,1,81,Oscar Piastri,McLaren,20,18.0,0.0,0.0
+2023,2,11,Sergio Perez,Red Bull Racing,1,1.0,18.0,43.0
+2023,2,1,Max Verstappen,Red Bull Racing,2,15.0,25.0,43.0
+2023,2,14,Fernando Alonso,Aston Martin,3,2.0,15.0,23.0
+2023,2,63,George Russell,Mercedes,4,3.0,6.0,16.0
+2023,2,44,Lewis Hamilton,Mercedes,5,7.0,10.0,16.0
+2023,2,55,Carlos Sainz,Ferrari,6,4.0,12.0,12.0
+2023,2,16,Charles Leclerc,Ferrari,7,12.0,0.0,12.0
+2023,2,31,Esteban Ocon,Alpine,8,6.0,0.0,2.0
+2023,2,10,Pierre Gasly,Alpine,9,9.0,2.0,2.0
+2023,2,20,Kevin Magnussen,Haas F1 Team,10,13.0,0.0,0.0
+2023,2,22,Yuki Tsunoda,RB F1 Team,11,16.0,0.0,0.0
+2023,2,27,Nico Hulkenberg,Haas F1 Team,12,10.0,0.0,0.0
+2023,2,24,Guanyu Zhou,Sauber,13,11.0,0.0,4.0
+2023,2,21,Nyck De Vries,RB F1 Team,14,18.0,0.0,0.0
+2023,2,81,Oscar Piastri,McLaren,15,8.0,0.0,0.0
+2023,2,2,Logan Sargeant,Williams,16,20.0,0.0,1.0
+2023,2,4,Lando Norris,McLaren,17,19.0,0.0,0.0
+2023,2,77,Valtteri Bottas,Sauber,18,14.0,4.0,4.0
+2023,2,23,Alexander Albon,Williams,19,17.0,1.0,1.0
+2023,2,18,Lance Stroll,Aston Martin,20,5.0,8.0,23.0
+2023,3,1,Max Verstappen,Red Bull Racing,1,1.0,44.0,87.0
+2023,3,44,Lewis Hamilton,Mercedes,2,3.0,20.0,38.0
+2023,3,14,Fernando Alonso,Aston Martin,3,4.0,30.0,38.0
+2023,3,18,Lance Stroll,Aston Martin,4,6.0,8.0,38.0
+2023,3,11,Sergio Perez,Red Bull Racing,5,20.0,43.0,87.0
+2023,3,4,Lando Norris,McLaren,6,13.0,0.0,0.0
+2023,3,27,Nico Hulkenberg,Haas F1 Team,7,10.0,0.0,1.0
+2023,3,81,Oscar Piastri,McLaren,8,16.0,0.0,0.0
+2023,3,24,Guanyu Zhou,Sauber,9,17.0,0.0,4.0
+2023,3,22,Yuki Tsunoda,RB F1 Team,10,12.0,0.0,0.0
+2023,3,77,Valtteri Bottas,Sauber,11,19.0,4.0,4.0
+2023,3,55,Carlos Sainz,Ferrari,12,5.0,20.0,26.0
+2023,3,10,Pierre Gasly,Alpine,13,9.0,4.0,8.0
+2023,3,31,Esteban Ocon,Alpine,14,11.0,4.0,8.0
+2023,3,21,Nyck De Vries,RB F1 Team,15,15.0,0.0,0.0
+2023,3,2,Logan Sargeant,Williams,16,18.0,0.0,1.0
+2023,3,20,Kevin Magnussen,Haas F1 Team,17,14.0,1.0,1.0
+2023,3,63,George Russell,Mercedes,18,2.0,18.0,38.0
+2023,3,23,Alexander Albon,Williams,19,8.0,1.0,1.0
+2023,3,16,Charles Leclerc,Ferrari,20,7.0,6.0,26.0
+2023,4,11,Sergio Perez,Red Bull Racing,1,3.0,54.0,123.0
+2023,4,1,Max Verstappen,Red Bull Racing,2,2.0,69.0,123.0
+2023,4,16,Charles Leclerc,Ferrari,3,1.0,6.0,26.0
+2023,4,14,Fernando Alonso,Aston Martin,4,6.0,45.0,65.0
+2023,4,55,Carlos Sainz,Ferrari,5,4.0,20.0,26.0
+2023,4,44,Lewis Hamilton,Mercedes,6,5.0,38.0,56.0
+2023,4,18,Lance Stroll,Aston Martin,7,9.0,20.0,65.0
+2023,4,63,George Russell,Mercedes,8,11.0,18.0,56.0
+2023,4,4,Lando Norris,McLaren,9,7.0,8.0,12.0
+2023,4,22,Yuki Tsunoda,RB F1 Team,10,8.0,1.0,1.0
+2023,4,81,Oscar Piastri,McLaren,11,10.0,4.0,12.0
+2023,4,23,Alexander Albon,Williams,12,12.0,1.0,1.0
+2023,4,20,Kevin Magnussen,Haas F1 Team,13,16.0,1.0,7.0
+2023,4,10,Pierre Gasly,Alpine,14,17.0,4.0,8.0
+2023,4,31,Esteban Ocon,Alpine,15,19.0,4.0,8.0
+2023,4,2,Logan Sargeant,Williams,16,14.0,0.0,1.0
+2023,4,27,Nico Hulkenberg,Haas F1 Team,17,20.0,6.0,7.0
+2023,4,77,Valtteri Bottas,Sauber,18,13.0,4.0,6.0
+2023,4,24,Guanyu Zhou,Sauber,19,15.0,2.0,6.0
+2023,4,21,Nyck De Vries,RB F1 Team,20,18.0,0.0,1.0
+2023,5,1,Max Verstappen,Red Bull Racing,1,9.0,87.0,166.0
+2023,5,11,Sergio Perez,Red Bull Racing,2,1.0,79.0,166.0
+2023,5,14,Fernando Alonso,Aston Martin,3,2.0,57.0,83.0
+2023,5,63,George Russell,Mercedes,4,6.0,23.0,69.0
+2023,5,55,Carlos Sainz,Ferrari,5,3.0,30.0,51.0
+2023,5,44,Lewis Hamilton,Mercedes,6,13.0,46.0,69.0
+2023,5,16,Charles Leclerc,Ferrari,7,7.0,21.0,51.0
+2023,5,10,Pierre Gasly,Alpine,8,5.0,4.0,8.0
+2023,5,31,Esteban Ocon,Alpine,9,8.0,4.0,8.0
+2023,5,20,Kevin Magnussen,Haas F1 Team,10,4.0,1.0,7.0
+2023,5,22,Yuki Tsunoda,RB F1 Team,11,17.0,2.0,2.0
+2023,5,18,Lance Stroll,Aston Martin,12,18.0,26.0,83.0
+2023,5,77,Valtteri Bottas,Sauber,13,10.0,4.0,6.0
+2023,5,23,Alexander Albon,Williams,14,11.0,1.0,1.0
+2023,5,27,Nico Hulkenberg,Haas F1 Team,15,12.0,6.0,7.0
+2023,5,24,Guanyu Zhou,Sauber,16,14.0,2.0,6.0
+2023,5,4,Lando Norris,McLaren,17,16.0,10.0,14.0
+2023,5,21,Nyck De Vries,RB F1 Team,18,15.0,0.0,2.0
+2023,5,81,Oscar Piastri,McLaren,19,19.0,4.0,14.0
+2023,5,2,Logan Sargeant,Williams,20,20.0,0.0,1.0
+2023,6,1,Max Verstappen,Red Bull Racing,1,1.0,113.0,210.0
+2023,6,14,Fernando Alonso,Aston Martin,2,2.0,72.0,98.0
+2023,6,31,Esteban Ocon,Alpine,3,3.0,6.0,14.0
+2023,6,44,Lewis Hamilton,Mercedes,4,5.0,54.0,89.0
+2023,6,63,George Russell,Mercedes,5,8.0,35.0,89.0
+2023,6,16,Charles Leclerc,Ferrari,6,6.0,27.0,67.0
+2023,6,10,Pierre Gasly,Alpine,7,7.0,8.0,14.0
+2023,6,55,Carlos Sainz,Ferrari,8,4.0,40.0,67.0
+2023,6,4,Lando Norris,McLaren,9,10.0,10.0,14.0
+2023,6,81,Oscar Piastri,McLaren,10,11.0,4.0,14.0
+2023,6,77,Valtteri Bottas,Sauber,11,15.0,4.0,6.0
+2023,6,21,Nyck De Vries,RB F1 Team,12,12.0,0.0,2.0
+2023,6,24,Guanyu Zhou,Sauber,13,19.0,2.0,6.0
+2023,6,23,Alexander Albon,Williams,14,13.0,1.0,1.0
+2023,6,22,Yuki Tsunoda,RB F1 Team,15,9.0,2.0,2.0
+2023,6,11,Sergio Perez,Red Bull Racing,16,20.0,97.0,210.0
+2023,6,27,Nico Hulkenberg,Haas F1 Team,17,18.0,6.0,8.0
+2023,6,2,Logan Sargeant,Williams,18,16.0,0.0,1.0
+2023,6,20,Kevin Magnussen,Haas F1 Team,19,17.0,2.0,8.0
+2023,6,18,Lance Stroll,Aston Martin,20,14.0,26.0,98.0
+2023,7,1,Max Verstappen,Red Bull Racing,1,1.0,138.0,235.0
+2023,7,44,Lewis Hamilton,Mercedes,2,4.0,67.0,112.0
+2023,7,63,George Russell,Mercedes,3,12.0,45.0,112.0
+2023,7,11,Sergio Perez,Red Bull Racing,4,11.0,97.0,235.0
+2023,7,55,Carlos Sainz,Ferrari,5,2.0,44.0,79.0
+2023,7,18,Lance Stroll,Aston Martin,6,5.0,26.0,116.0
+2023,7,14,Fernando Alonso,Aston Martin,7,8.0,90.0,116.0
+2023,7,31,Esteban Ocon,Alpine,8,6.0,21.0,35.0
+2023,7,24,Guanyu Zhou,Sauber,9,13.0,2.0,6.0
+2023,7,10,Pierre Gasly,Alpine,10,10.0,14.0,35.0
+2023,7,16,Charles Leclerc,Ferrari,11,19.0,35.0,79.0
+2023,7,22,Yuki Tsunoda,RB F1 Team,12,15.0,2.0,2.0
+2023,7,81,Oscar Piastri,McLaren,13,9.0,5.0,17.0
+2023,7,21,Nyck De Vries,RB F1 Team,14,14.0,0.0,2.0
+2023,7,27,Nico Hulkenberg,Haas F1 Team,15,7.0,6.0,8.0
+2023,7,23,Alexander Albon,Williams,16,18.0,1.0,1.0
+2023,7,4,Lando Norris,McLaren,17,3.0,12.0,17.0
+2023,7,20,Kevin Magnussen,Haas F1 Team,18,17.0,2.0,8.0
+2023,7,77,Valtteri Bottas,Sauber,19,16.0,4.0,6.0
+2023,7,2,Logan Sargeant,Williams,20,20.0,0.0,1.0
+2023,8,1,Max Verstappen,Red Bull Racing,1,1.0,164.0,273.0
+2023,8,14,Fernando Alonso,Aston Martin,2,2.0,96.0,130.0
+2023,8,44,Lewis Hamilton,Mercedes,3,3.0,85.0,145.0
+2023,8,16,Charles Leclerc,Ferrari,4,10.0,35.0,89.0
+2023,8,55,Carlos Sainz,Ferrari,5,11.0,54.0,89.0
+2023,8,11,Sergio Perez,Red Bull Racing,6,12.0,109.0,273.0
+2023,8,23,Alexander Albon,Williams,7,9.0,1.0,1.0
+2023,8,31,Esteban Ocon,Alpine,8,6.0,25.0,40.0
+2023,8,18,Lance Stroll,Aston Martin,9,16.0,34.0,130.0
+2023,8,77,Valtteri Bottas,Sauber,10,14.0,4.0,8.0
+2023,8,81,Oscar Piastri,McLaren,11,8.0,5.0,17.0
+2023,8,10,Pierre Gasly,Alpine,12,15.0,15.0,40.0
+2023,8,4,Lando Norris,McLaren,13,7.0,12.0,17.0
+2023,8,22,Yuki Tsunoda,RB F1 Team,14,19.0,2.0,2.0
+2023,8,27,Nico Hulkenberg,Haas F1 Team,15,5.0,6.0,8.0
+2023,8,24,Guanyu Zhou,Sauber,16,20.0,4.0,8.0
+2023,8,20,Kevin Magnussen,Haas F1 Team,17,13.0,2.0,8.0
+2023,8,21,Nyck De Vries,RB F1 Team,18,17.0,0.0,2.0
+2023,8,63,George Russell,Mercedes,19,4.0,60.0,145.0
+2023,8,2,Logan Sargeant,Williams,20,18.0,0.0,1.0
+2023,9,1,Max Verstappen,Red Bull Racing,1,1.0,189.0,307.0
+2023,9,16,Charles Leclerc,Ferrari,2,2.0,47.0,111.0
+2023,9,11,Sergio Perez,Red Bull Racing,3,15.0,118.0,307.0
+2023,9,4,Lando Norris,McLaren,4,4.0,12.0,17.0
+2023,9,14,Fernando Alonso,Aston Martin,5,7.0,114.0,150.0
+2023,9,55,Carlos Sainz,Ferrari,6,3.0,64.0,111.0
+2023,9,63,George Russell,Mercedes,7,11.0,60.0,160.0
+2023,9,44,Lewis Hamilton,Mercedes,8,5.0,100.0,160.0
+2023,9,18,Lance Stroll,Aston Martin,9,6.0,36.0,150.0
+2023,9,10,Pierre Gasly,Alpine,10,9.0,15.0,44.0
+2023,9,23,Alexander Albon,Williams,11,10.0,7.0,7.0
+2023,9,24,Guanyu Zhou,Sauber,12,17.0,4.0,9.0
+2023,9,2,Logan Sargeant,Williams,13,18.0,0.0,7.0
+2023,9,31,Esteban Ocon,Alpine,14,12.0,29.0,44.0
+2023,9,77,Valtteri Bottas,Sauber,15,14.0,5.0,9.0
+2023,9,81,Oscar Piastri,McLaren,16,13.0,5.0,17.0
+2023,9,21,Nyck De Vries,RB F1 Team,17,20.0,0.0,2.0
+2023,9,20,Kevin Magnussen,Haas F1 Team,18,19.0,2.0,8.0
+2023,9,22,Yuki Tsunoda,RB F1 Team,19,16.0,2.0,2.0
+2023,9,27,Nico Hulkenberg,Haas F1 Team,20,8.0,6.0,8.0
+2023,10,1,Max Verstappen,Red Bull Racing,1,1.0,215.0,348.0
+2023,10,4,Lando Norris,McLaren,2,2.0,24.0,29.0
+2023,10,44,Lewis Hamilton,Mercedes,3,7.0,104.0,170.0
+2023,10,81,Oscar Piastri,McLaren,4,3.0,5.0,29.0
+2023,10,63,George Russell,Mercedes,5,6.0,66.0,170.0
+2023,10,11,Sergio Perez,Red Bull Racing,6,15.0,133.0,348.0
+2023,10,14,Fernando Alonso,Aston Martin,7,9.0,124.0,162.0
+2023,10,23,Alexander Albon,Williams,8,8.0,7.0,7.0
+2023,10,16,Charles Leclerc,Ferrari,9,4.0,65.0,137.0
+2023,10,55,Carlos Sainz,Ferrari,10,5.0,72.0,137.0
+2023,10,2,Logan Sargeant,Williams,11,14.0,0.0,7.0
+2023,10,77,Valtteri Bottas,Sauber,12,20.0,5.0,9.0
+2023,10,27,Nico Hulkenberg,Haas F1 Team,13,11.0,6.0,8.0
+2023,10,18,Lance Stroll,Aston Martin,14,12.0,38.0,162.0
+2023,10,24,Guanyu Zhou,Sauber,15,17.0,4.0,9.0
+2023,10,22,Yuki Tsunoda,RB F1 Team,16,16.0,2.0,2.0
+2023,10,21,Nyck De Vries,RB F1 Team,17,18.0,0.0,2.0
+2023,10,10,Pierre Gasly,Alpine,18,10.0,16.0,45.0
+2023,10,20,Kevin Magnussen,Haas F1 Team,19,19.0,2.0,8.0
+2023,10,31,Esteban Ocon,Alpine,20,13.0,29.0,45.0
+2023,11,1,Max Verstappen,Red Bull Racing,1,2.0,241.0,382.0
+2023,11,4,Lando Norris,McLaren,2,3.0,42.0,59.0
+2023,11,11,Sergio Perez,Red Bull Racing,3,9.0,141.0,382.0
+2023,11,44,Lewis Hamilton,Mercedes,4,1.0,119.0,195.0
+2023,11,81,Oscar Piastri,McLaren,5,4.0,17.0,59.0
+2023,11,63,George Russell,Mercedes,6,18.0,76.0,195.0
+2023,11,16,Charles Leclerc,Ferrari,7,6.0,67.0,140.0
+2023,11,55,Carlos Sainz,Ferrari,8,11.0,73.0,140.0
+2023,11,14,Fernando Alonso,Aston Martin,9,8.0,130.0,168.0
+2023,11,18,Lance Stroll,Aston Martin,10,14.0,38.0,168.0
+2023,11,23,Alexander Albon,Williams,11,16.0,11.0,11.0
+2023,11,77,Valtteri Bottas,Sauber,12,7.0,5.0,9.0
+2023,11,3,Daniel Ricciardo,RB F1 Team,13,13.0,0.0,2.0
+2023,11,27,Nico Hulkenberg,Haas F1 Team,14,10.0,6.0,8.0
+2023,11,22,Yuki Tsunoda,RB F1 Team,15,17.0,2.0,2.0
+2023,11,24,Guanyu Zhou,Sauber,16,5.0,4.0,9.0
+2023,11,20,Kevin Magnussen,Haas F1 Team,17,19.0,2.0,8.0
+2023,11,2,Logan Sargeant,Williams,18,20.0,0.0,11.0
+2023,11,31,Esteban Ocon,Alpine,19,12.0,29.0,45.0
+2023,11,10,Pierre Gasly,Alpine,20,15.0,16.0,45.0
+2023,12,1,Max Verstappen,Red Bull Racing,1,6.0,267.0,423.0
+2023,12,11,Sergio Perez,Red Bull Racing,2,2.0,156.0,423.0
+2023,12,16,Charles Leclerc,Ferrari,3,1.0,73.0,150.0
+2023,12,44,Lewis Hamilton,Mercedes,4,3.0,131.0,215.0
+2023,12,14,Fernando Alonso,Aston Martin,5,9.0,132.0,171.0
+2023,12,63,George Russell,Mercedes,6,8.0,84.0,215.0
+2023,12,4,Lando Norris,McLaren,7,7.0,60.0,87.0
+2023,12,31,Esteban Ocon,Alpine,8,14.0,29.0,45.0
+2023,12,18,Lance Stroll,Aston Martin,9,10.0,39.0,171.0
+2023,12,22,Yuki Tsunoda,RB F1 Team,10,11.0,2.0,2.0
+2023,12,10,Pierre Gasly,Alpine,11,12.0,16.0,45.0
+2023,12,77,Valtteri Bottas,Sauber,12,13.0,5.0,9.0
+2023,12,24,Guanyu Zhou,Sauber,13,17.0,4.0,9.0
+2023,12,23,Alexander Albon,Williams,14,15.0,11.0,11.0
+2023,12,20,Kevin Magnussen,Haas F1 Team,15,16.0,2.0,8.0
+2023,12,3,Daniel Ricciardo,RB F1 Team,16,19.0,0.0,2.0
+2023,12,2,Logan Sargeant,Williams,17,18.0,0.0,11.0
+2023,12,27,Nico Hulkenberg,Haas F1 Team,18,20.0,6.0,8.0
+2023,12,55,Carlos Sainz,Ferrari,19,4.0,77.0,150.0
+2023,12,81,Oscar Piastri,McLaren,20,5.0,27.0,87.0
+2023,13,1,Max Verstappen,Red Bull Racing,1,1.0,292.0,466.0
+2023,13,14,Fernando Alonso,Aston Martin,2,5.0,142.0,183.0
+2023,13,10,Pierre Gasly,Alpine,3,12.0,16.0,49.0
+2023,13,11,Sergio Perez,Red Bull Racing,4,7.0,174.0,466.0
+2023,13,55,Carlos Sainz,Ferrari,5,6.0,77.0,165.0
+2023,13,44,Lewis Hamilton,Mercedes,6,13.0,144.0,236.0
+2023,13,4,Lando Norris,McLaren,7,2.0,66.0,93.0
+2023,13,23,Alexander Albon,Williams,8,4.0,11.0,11.0
+2023,13,81,Oscar Piastri,McLaren,9,8.0,27.0,93.0
+2023,13,31,Esteban Ocon,Alpine,10,16.0,33.0,49.0
+2023,13,18,Lance Stroll,Aston Martin,11,11.0,41.0,183.0
+2023,13,27,Nico Hulkenberg,Haas F1 Team,12,14.0,6.0,8.0
+2023,13,40,Liam Lawson,RB F1 Team,13,19.0,0.0,3.0
+2023,13,77,Valtteri Bottas,Sauber,14,18.0,5.0,9.0
+2023,13,22,Yuki Tsunoda,RB F1 Team,15,17.0,3.0,3.0
+2023,13,20,Kevin Magnussen,Haas F1 Team,16,21.0,2.0,8.0
+2023,13,63,George Russell,Mercedes,17,3.0,92.0,236.0
+2023,13,24,Guanyu Zhou,Sauber,18,15.0,4.0,9.0
+2023,13,16,Charles Leclerc,Ferrari,19,9.0,88.0,165.0
+2023,13,2,Logan Sargeant,Williams,20,10.0,0.0,11.0
+2023,14,1,Max Verstappen,Red Bull Racing,1,2.0,317.0,503.0
+2023,14,11,Sergio Perez,Red Bull Racing,2,5.0,186.0,503.0
+2023,14,55,Carlos Sainz,Ferrari,3,1.0,87.0,175.0
+2023,14,16,Charles Leclerc,Ferrari,4,3.0,88.0,175.0
+2023,14,63,George Russell,Mercedes,5,4.0,92.0,244.0
+2023,14,44,Lewis Hamilton,Mercedes,6,8.0,152.0,244.0
+2023,14,23,Alexander Albon,Williams,7,6.0,15.0,15.0
+2023,14,4,Lando Norris,McLaren,8,9.0,72.0,101.0
+2023,14,14,Fernando Alonso,Aston Martin,9,10.0,161.0,202.0
+2023,14,77,Valtteri Bottas,Sauber,10,14.0,5.0,9.0
+2023,14,40,Liam Lawson,RB F1 Team,11,12.0,0.0,3.0
+2023,14,81,Oscar Piastri,McLaren,12,7.0,29.0,101.0
+2023,14,2,Logan Sargeant,Williams,13,15.0,0.0,15.0
+2023,14,24,Guanyu Zhou,Sauber,14,16.0,4.0,9.0
+2023,14,10,Pierre Gasly,Alpine,15,17.0,31.0,65.0
+2023,14,18,Lance Stroll,Aston Martin,16,20.0,41.0,202.0
+2023,14,27,Nico Hulkenberg,Haas F1 Team,17,13.0,6.0,8.0
+2023,14,20,Kevin Magnussen,Haas F1 Team,18,19.0,2.0,8.0
+2023,14,31,Esteban Ocon,Alpine,19,18.0,34.0,65.0
+2023,14,22,Yuki Tsunoda,RB F1 Team,20,11.0,3.0,3.0
+2023,15,55,Carlos Sainz,Ferrari,1,1.0,102.0,202.0
+2023,15,4,Lando Norris,McLaren,2,4.0,76.0,105.0
+2023,15,44,Lewis Hamilton,Mercedes,3,5.0,160.0,262.0
+2023,15,16,Charles Leclerc,Ferrari,4,3.0,100.0,202.0
+2023,15,1,Max Verstappen,Red Bull Racing,5,11.0,342.0,546.0
+2023,15,10,Pierre Gasly,Alpine,6,12.0,31.0,65.0
+2023,15,81,Oscar Piastri,McLaren,7,17.0,29.0,105.0
+2023,15,11,Sergio Perez,Red Bull Racing,8,13.0,204.0,546.0
+2023,15,40,Liam Lawson,RB F1 Team,9,10.0,0.0,3.0
+2023,15,20,Kevin Magnussen,Haas F1 Team,10,6.0,2.0,8.0
+2023,15,23,Alexander Albon,Williams,11,14.0,21.0,21.0
+2023,15,24,Guanyu Zhou,Sauber,12,19.0,4.0,10.0
+2023,15,27,Nico Hulkenberg,Haas F1 Team,13,9.0,6.0,8.0
+2023,15,2,Logan Sargeant,Williams,14,18.0,0.0,21.0
+2023,15,14,Fernando Alonso,Aston Martin,15,7.0,163.0,204.0
+2023,15,63,George Russell,Mercedes,16,2.0,102.0,262.0
+2023,15,77,Valtteri Bottas,Sauber,17,16.0,6.0,10.0
+2023,15,31,Esteban Ocon,Alpine,18,8.0,34.0,65.0
+2023,15,22,Yuki Tsunoda,RB F1 Team,19,15.0,3.0,3.0
+2023,16,1,Max Verstappen,Red Bull Racing,1,1.0,352.0,560.0
+2023,16,4,Lando Norris,McLaren,2,3.0,94.0,129.0
+2023,16,81,Oscar Piastri,McLaren,3,2.0,35.0,129.0
+2023,16,16,Charles Leclerc,Ferrari,4,4.0,112.0,239.0
+2023,16,44,Lewis Hamilton,Mercedes,5,7.0,176.0,278.0
+2023,16,55,Carlos Sainz,Ferrari,6,6.0,127.0,239.0
+2023,16,63,George Russell,Mercedes,7,8.0,102.0,278.0
+2023,16,14,Fernando Alonso,Aston Martin,8,10.0,163.0,204.0
+2023,16,31,Esteban Ocon,Alpine,9,14.0,34.0,73.0
+2023,16,10,Pierre Gasly,Alpine,10,12.0,39.0,73.0
+2023,16,40,Liam Lawson,RB F1 Team,11,11.0,2.0,5.0
+2023,16,22,Yuki Tsunoda,RB F1 Team,12,9.0,3.0,5.0
+2023,16,24,Guanyu Zhou,Sauber,13,19.0,4.0,10.0
+2023,16,27,Nico Hülkenberg,Haas F1 Team,14,18.0,6.0,9.0
+2023,16,20,Kevin Magnussen,Haas F1 Team,15,15.0,3.0,9.0
+2023,16,23,Alexander Albon,Williams,16,13.0,21.0,21.0
+2023,16,2,Logan Sargeant,Williams,17,20.0,0.0,21.0
+2023,16,18,Lance Stroll,Aston Martin,18,17.0,41.0,204.0
+2023,16,11,Sergio Pérez,Red Bull Racing,19,5.0,208.0,560.0
+2023,16,77,Valtteri Bottas,Sauber,20,16.0,6.0,10.0
+2024,10,1,Max Verstappen,Red Bull Racing,1,2.0,178.0,273.0
+2024,10,4,Lando Norris,McLaren,2,1.0,128.0,204.0
+2024,10,44,Lewis Hamilton,Mercedes,3,3.0,48.0,116.0
+2024,10,63,George Russell,Mercedes,4,4.0,68.0,116.0
+2024,10,16,Charles Leclerc,Ferrari,5,5.0,126.0,232.0
+2024,10,55,Carlos Sainz,Ferrari,6,6.0,100.0,232.0
+2024,10,81,Oscar Piastri,McLaren,7,9.0,76.0,204.0
+2024,10,11,Sergio Pérez,Red Bull Racing,8,11.0,95.0,273.0
+2024,10,10,Pierre Gasly,Alpine,9,7.0,3.0,5.0
+2024,10,31,Esteban Ocon,Alpine,10,8.0,2.0,5.0
+2024,10,27,Nico Hülkenberg,Haas F1 Team,11,13.0,4.0,5.0
+2024,10,14,Fernando Alonso,Aston Martin,12,10.0,41.0,58.0
+2024,10,24,Guanyu Zhou,Sauber,13,15.0,0.0,0.0
+2024,10,18,Lance Stroll,Aston Martin,14,14.0,17.0,58.0
+2024,10,3,Daniel Ricciardo,RB F1 Team,15,18.0,4.0,22.0
+2024,10,77,Valtteri Bottas,Sauber,16,12.0,0.0,0.0
+2024,10,20,Kevin Magnussen,Haas F1 Team,17,16.0,1.0,5.0
+2024,10,23,Alexander Albon,Williams,18,20.0,2.0,2.0
+2024,10,22,Yuki Tsunoda,RB F1 Team,19,17.0,18.0,22.0
+2024,10,2,Logan Sargeant,Williams,20,19.0,0.0,2.0
+2023,19,1,Max Verstappen,Red Bull Racing,1,3.0,378.0,586.0
+2023,19,44,Lewis Hamilton,Mercedes,2,6.0,186.0,294.0
+2023,19,16,Charles Leclerc,Ferrari,3,1.0,124.0,259.0
+2023,19,55,Carlos Sainz,Ferrari,4,2.0,135.0,259.0
+2023,19,4,Lando Norris,McLaren,5,17.0,112.0,162.0
+2023,19,63,George Russell,Mercedes,6,8.0,108.0,294.0
+2023,19,3,Daniel Ricciardo,RB F1 Team,7,4.0,0.0,5.0
+2023,19,81,Oscar Piastri,McLaren,8,7.0,50.0,162.0
+2023,19,23,Alexander Albon,Williams,9,14.0,21.0,21.0
+2023,19,31,Esteban Ocon,Alpine,10,15.0,36.0,76.0
+2023,19,10,Pierre Gasly,Alpine,11,11.0,40.0,76.0
+2023,19,22,Yuki Tsunoda,RB F1 Team,12,18.0,3.0,5.0
+2023,19,27,Nico Hulkenberg,Haas F1 Team,13,12.0,6.0,9.0
+2023,19,24,Guanyu Zhou,Sauber,14,10.0,4.0,10.0
+2023,19,77,Valtteri Bottas,Sauber,15,9.0,6.0,10.0
+2023,19,2,Logan Sargeant,Williams,16,19.0,0.0,21.0
+2023,19,18,Lance Stroll,Aston Martin,17,21.0,41.0,208.0
+2023,19,14,Fernando Alonso,Aston Martin,18,13.0,167.0,208.0
+2023,19,20,Kevin Magnussen,Haas F1 Team,19,16.0,3.0,9.0
+2023,19,11,Sergio Perez,Red Bull Racing,20,5.0,208.0,586.0
+2023,20,1,Max Verstappen,Red Bull Racing,1,1.0,403.0,611.0
+2023,20,4,Lando Norris,McLaren,2,6.0,122.0,176.0
+2023,20,14,Fernando Alonso,Aston Martin,3,4.0,167.0,208.0
+2023,20,11,Sergio Perez,Red Bull Racing,4,9.0,208.0,611.0
+2023,20,18,Lance Stroll,Aston Martin,5,3.0,41.0,208.0
+2023,20,55,Carlos Sainz,Ferrari,6,7.0,147.0,286.0
+2023,20,10,Pierre Gasly,Alpine,7,15.0,40.0,77.0
+2023,20,44,Lewis Hamilton,Mercedes,8,5.0,205.0,321.0
+2023,20,22,Yuki Tsunoda,RB F1 Team,9,16.0,3.0,11.0
+2023,20,31,Esteban Ocon,Alpine,10,14.0,37.0,77.0
+2023,20,2,Logan Sargeant,Williams,11,19.0,0.0,23.0
+2023,20,27,Nico Hulkenberg,Haas F1 Team,12,11.0,6.0,9.0
+2023,20,3,Daniel Ricciardo,RB F1 Team,13,17.0,6.0,11.0
+2023,20,81,Oscar Piastri,McLaren,14,10.0,54.0,176.0
+2023,20,63,George Russell,Mercedes,15,8.0,116.0,321.0
+2023,20,77,Valtteri Bottas,Sauber,16,18.0,6.0,10.0
+2023,20,24,Guanyu Zhou,Sauber,17,20.0,4.0,10.0
+2023,20,20,Kevin Magnussen,Haas F1 Team,18,12.0,3.0,9.0
+2023,20,23,Alexander Albon,Williams,19,13.0,23.0,23.0
+2023,20,16,Charles Leclerc,Ferrari,20,2.0,139.0,286.0
+2023,21,1,Max Verstappen,Red Bull Racing,1,2.0,428.0,648.0
+2023,21,16,Charles Leclerc,Ferrari,2,1.0,139.0,294.0
+2023,21,11,Sergio Perez,Red Bull Racing,3,11.0,220.0,648.0
+2023,21,31,Esteban Ocon,Alpine,4,16.0,38.0,84.0
+2023,21,18,Lance Stroll,Aston Martin,5,19.0,51.0,233.0
+2023,21,55,Carlos Sainz,Ferrari,6,12.0,155.0,294.0
+2023,21,44,Lewis Hamilton,Mercedes,7,10.0,209.0,325.0
+2023,21,63,George Russell,Mercedes,8,3.0,116.0,325.0
+2023,21,14,Fernando Alonso,Aston Martin,9,9.0,182.0,233.0
+2023,21,81,Oscar Piastri,McLaren,10,18.0,54.0,195.0
+2023,21,10,Pierre Gasly,Alpine,11,4.0,46.0,84.0
+2023,21,23,Alexander Albon,Williams,12,5.0,23.0,23.0
+2023,21,20,Kevin Magnussen,Haas F1 Team,13,8.0,3.0,9.0
+2023,21,3,Daniel Ricciardo,RB F1 Team,14,14.0,6.0,13.0
+2023,21,24,Guanyu Zhou,Sauber,15,17.0,4.0,10.0
+2023,21,2,Logan Sargeant,Williams,16,6.0,0.0,23.0
+2023,21,77,Valtteri Bottas,Sauber,17,7.0,6.0,10.0
+2023,21,22,Yuki Tsunoda,RB F1 Team,18,20.0,5.0,13.0
+2023,21,27,Nico Hulkenberg,Haas F1 Team,19,13.0,6.0,9.0
+2023,21,4,Lando Norris,McLaren,20,15.0,141.0,195.0
+2023,22,1,Max Verstappen,Red Bull Racing,1,1.0,453.0,688.0
+2023,22,16,Charles Leclerc,Ferrari,2,2.0,157.0,320.0
+2023,22,63,George Russell,Mercedes,3,4.0,120.0,335.0
+2023,22,11,Sergio Perez,Red Bull Racing,4,9.0,235.0,688.0
+2023,22,4,Lando Norris,McLaren,5,5.0,141.0,197.0
+2023,22,81,Oscar Piastri,McLaren,6,3.0,56.0,197.0
+2023,22,14,Fernando Alonso,Aston Martin,7,7.0,184.0,245.0
+2023,22,22,Yuki Tsunoda,RB F1 Team,8,6.0,5.0,13.0
+2023,22,44,Lewis Hamilton,Mercedes,9,11.0,215.0,335.0
+2023,22,18,Lance Stroll,Aston Martin,10,13.0,61.0,245.0
+2023,22,3,Daniel Ricciardo,RB F1 Team,11,15.0,6.0,13.0
+2023,22,31,Esteban Ocon,Alpine,12,12.0,50.0,96.0
+2023,22,10,Pierre Gasly,Alpine,13,10.0,46.0,96.0
+2023,22,23,Alexander Albon,Williams,14,14.0,23.0,23.0
+2023,22,27,Nico Hulkenberg,Haas F1 Team,15,8.0,6.0,9.0
+2023,22,2,Logan Sargeant,Williams,16,20.0,0.0,23.0
+2023,22,24,Guanyu Zhou,Sauber,17,19.0,4.0,10.0
+2023,22,55,Carlos Sainz,Ferrari,18,16.0,163.0,320.0
+2023,22,77,Valtteri Bottas,Sauber,19,18.0,6.0,10.0
+2023,22,20,Kevin Magnussen,Haas F1 Team,20,17.0,3.0,9.0
+2024,1,1,Max Verstappen,Red Bull Racing,1,1.0,0.0,0.0
+2024,1,11,Sergio Perez,Red Bull Racing,2,5.0,0.0,0.0
+2024,1,55,Carlos Sainz,Ferrari,3,4.0,0.0,0.0
+2024,1,16,Charles Leclerc,Ferrari,4,2.0,0.0,0.0
+2024,1,63,George Russell,Mercedes,5,3.0,0.0,0.0
+2024,1,4,Lando Norris,McLaren,6,7.0,0.0,0.0
+2024,1,44,Lewis Hamilton,Mercedes,7,9.0,0.0,0.0
+2024,1,81,Oscar Piastri,McLaren,8,8.0,0.0,0.0
+2024,1,14,Fernando Alonso,Aston Martin,9,6.0,0.0,0.0
+2024,1,18,Lance Stroll,Aston Martin,10,12.0,0.0,0.0
+2024,1,24,Guanyu Zhou,Sauber,11,17.0,0.0,0.0
+2024,1,20,Kevin Magnussen,Haas F1 Team,12,15.0,0.0,0.0
+2024,1,3,Daniel Ricciardo,RB F1 Team,13,14.0,0.0,0.0
+2024,1,22,Yuki Tsunoda,RB F1 Team,14,11.0,0.0,0.0
+2024,1,23,Alexander Albon,Williams,15,13.0,0.0,0.0
+2024,1,27,Nico Hulkenberg,Haas F1 Team,16,10.0,0.0,0.0
+2024,1,31,Esteban Ocon,Alpine,17,19.0,0.0,0.0
+2024,1,10,Pierre Gasly,Alpine,18,20.0,0.0,0.0
+2024,1,77,Valtteri Bottas,Sauber,19,16.0,0.0,0.0
+2024,1,2,Logan Sargeant,Williams,20,18.0,0.0,0.0
+2024,2,1,Max Verstappen,Red Bull Racing,1,1.0,26.0,44.0
+2024,2,11,Sergio Perez,Red Bull Racing,2,3.0,18.0,44.0
+2024,2,16,Charles Leclerc,Ferrari,3,2.0,12.0,27.0
+2024,2,81,Oscar Piastri,McLaren,4,5.0,4.0,12.0
+2024,2,14,Fernando Alonso,Aston Martin,5,4.0,2.0,3.0
+2024,2,63,George Russell,Mercedes,6,7.0,10.0,16.0
+2024,2,38,Oliver Bearman,Ferrari,7,11.0,0.0,27.0
+2024,2,4,Lando Norris,McLaren,8,6.0,8.0,12.0
+2024,2,44,Lewis Hamilton,Mercedes,9,8.0,6.0,16.0
+2024,2,27,Nico Hulkenberg,Haas F1 Team,10,15.0,0.0,0.0
+2024,2,23,Alexander Albon,Williams,11,12.0,0.0,0.0
+2024,2,20,Kevin Magnussen,Haas F1 Team,12,13.0,0.0,0.0
+2024,2,31,Esteban Ocon,Alpine,13,17.0,0.0,0.0
+2024,2,2,Logan Sargeant,Williams,14,19.0,0.0,0.0
+2024,2,22,Yuki Tsunoda,RB F1 Team,15,9.0,0.0,0.0
+2024,2,3,Daniel Ricciardo,RB F1 Team,16,14.0,0.0,0.0
+2024,2,77,Valtteri Bottas,Sauber,17,16.0,0.0,0.0
+2024,2,24,Guanyu Zhou,Sauber,18,20.0,0.0,0.0
+2024,2,18,Lance Stroll,Aston Martin,19,10.0,1.0,3.0
+2024,2,10,Pierre Gasly,Alpine,20,18.0,0.0,0.0
+2024,3,55,Carlos Sainz,Ferrari,1,2.0,15.0,49.0
+2024,3,16,Charles Leclerc,Ferrari,2,4.0,28.0,49.0
+2024,3,4,Lando Norris,McLaren,3,3.0,12.0,28.0
+2024,3,81,Oscar Piastri,McLaren,4,5.0,16.0,28.0
+2024,3,11,Sergio Perez,Red Bull Racing,5,6.0,36.0,87.0
+2024,3,18,Lance Stroll,Aston Martin,6,9.0,1.0,13.0
+2024,3,22,Yuki Tsunoda,RB F1 Team,7,8.0,0.0,0.0
+2024,3,14,Fernando Alonso,Aston Martin,8,10.0,12.0,13.0
+2024,3,27,Nico Hulkenberg,Haas F1 Team,9,16.0,1.0,1.0
+2024,3,20,Kevin Magnussen,Haas F1 Team,10,14.0,0.0,1.0
+2024,3,23,Alexander Albon,Williams,11,12.0,0.0,0.0
+2024,3,3,Daniel Ricciardo,RB F1 Team,12,18.0,0.0,0.0
+2024,3,10,Pierre Gasly,Alpine,13,17.0,0.0,0.0
+2024,3,77,Valtteri Bottas,Sauber,14,13.0,0.0,0.0
+2024,3,24,Guanyu Zhou,Sauber,15,19.0,0.0,0.0
+2024,3,31,Esteban Ocon,Alpine,16,15.0,0.0,0.0
+2024,3,63,George Russell,Mercedes,17,7.0,18.0,26.0
+2024,3,44,Lewis Hamilton,Mercedes,18,11.0,8.0,26.0
+2024,3,1,Max Verstappen,Red Bull Racing,19,1.0,51.0,87.0
+2024,4,1,Max Verstappen,Red Bull Racing,1,1.0,51.0,97.0
+2024,4,11,Sergio Perez,Red Bull Racing,2,2.0,46.0,97.0
+2024,4,55,Carlos Sainz,Ferrari,3,4.0,40.0,93.0
+2024,4,16,Charles Leclerc,Ferrari,4,8.0,47.0,93.0
+2024,4,4,Lando Norris,McLaren,5,3.0,27.0,55.0
+2024,4,14,Fernando Alonso,Aston Martin,6,5.0,16.0,25.0
+2024,4,63,George Russell,Mercedes,7,9.0,18.0,26.0
+2024,4,81,Oscar Piastri,McLaren,8,6.0,28.0,55.0
+2024,4,44,Lewis Hamilton,Mercedes,9,7.0,8.0,26.0
+2024,4,22,Yuki Tsunoda,RB F1 Team,10,10.0,6.0,6.0
+2024,4,27,Nico Hulkenberg,Haas F1 Team,11,12.0,3.0,4.0
+2024,4,18,Lance Stroll,Aston Martin,12,16.0,9.0,25.0
+2024,4,20,Kevin Magnussen,Haas F1 Team,13,18.0,1.0,4.0
+2024,4,77,Valtteri Bottas,Sauber,14,13.0,0.0,0.0
+2024,4,31,Esteban Ocon,Alpine,15,15.0,0.0,0.0
+2024,4,10,Pierre Gasly,Alpine,16,17.0,0.0,0.0
+2024,4,2,Logan Sargeant,Williams,17,19.0,0.0,0.0
+2024,4,24,Guanyu Zhou,Sauber,18,20.0,0.0,0.0
+2024,4,3,Daniel Ricciardo,RB F1 Team,19,11.0,0.0,6.0
+2024,4,23,Alexander Albon,Williams,20,14.0,0.0,0.0
+2024,5,1,Max Verstappen,Red Bull Racing,1,1.0,77.0,141.0
+2024,5,4,Lando Norris,McLaren,2,4.0,37.0,69.0
+2024,5,11,Sergio Perez,Red Bull Racing,3,2.0,64.0,141.0
+2024,5,16,Charles Leclerc,Ferrari,4,6.0,59.0,120.0
+2024,5,55,Carlos Sainz,Ferrari,5,7.0,55.0,120.0
+2024,5,63,George Russell,Mercedes,6,8.0,24.0,34.0
+2024,5,14,Fernando Alonso,Aston Martin,7,3.0,24.0,33.0
+2024,5,81,Oscar Piastri,McLaren,8,5.0,32.0,69.0
+2024,5,44,Lewis Hamilton,Mercedes,9,18.0,10.0,34.0
+2024,5,27,Nico Hulkenberg,Haas F1 Team,10,9.0,3.0,4.0
+2024,5,31,Esteban Ocon,Alpine,11,13.0,0.0,0.0
+2024,5,23,Alexander Albon,Williams,12,14.0,0.0,0.0
+2024,5,10,Pierre Gasly,Alpine,13,15.0,0.0,0.0
+2024,5,24,Guanyu Zhou,Sauber,14,16.0,0.0,0.0
+2024,5,18,Lance Stroll,Aston Martin,15,11.0,9.0,33.0
+2024,5,20,Kevin Magnussen,Haas F1 Team,16,17.0,1.0,4.0
+2024,5,2,Logan Sargeant,Williams,17,20.0,0.0,0.0
+2024,5,3,Daniel Ricciardo,RB F1 Team,18,12.0,0.0,7.0
+2024,5,22,Yuki Tsunoda,RB F1 Team,19,19.0,7.0,7.0
+2024,5,77,Valtteri Bottas,Sauber,20,10.0,0.0,0.0
+2024,6,4,Lando Norris,McLaren,1,5.0,55.0,91.0
+2024,6,1,Max Verstappen,Red Bull Racing,2,1.0,102.0,181.0
+2024,6,16,Charles Leclerc,Ferrari,3,2.0,71.0,142.0
+2024,6,11,Sergio Perez,Red Bull Racing,4,4.0,79.0,181.0
+2024,6,55,Carlos Sainz,Ferrari,5,3.0,65.0,142.0
+2024,6,44,Lewis Hamilton,Mercedes,6,8.0,12.0,44.0
+2024,6,22,Yuki Tsunoda,RB F1 Team,7,10.0,7.0,7.0
+2024,6,63,George Russell,Mercedes,8,7.0,32.0,44.0
+2024,6,14,Fernando Alonso,Aston Martin,9,15.0,31.0,40.0
+2024,6,31,Esteban Ocon,Alpine,10,13.0,0.0,0.0
+2024,6,27,Nico Hulkenberg,Haas F1 Team,11,9.0,4.0,5.0
+2024,6,10,Pierre Gasly,Alpine,12,12.0,0.0,0.0
+2024,6,81,Oscar Piastri,McLaren,13,6.0,36.0,91.0
+2024,6,24,Guanyu Zhou,Sauber,14,19.0,0.0,0.0
+2024,6,3,Daniel Ricciardo,RB F1 Team,15,20.0,0.0,7.0
+2024,6,77,Valtteri Bottas,Sauber,16,16.0,0.0,0.0
+2024,6,18,Lance Stroll,Aston Martin,17,11.0,9.0,40.0
+2024,6,23,Alexander Albon,Williams,18,14.0,0.0,0.0
+2024,6,20,Kevin Magnussen,Haas F1 Team,19,18.0,1.0,5.0
+2024,6,2,Logan Sargeant,Williams,20,17.0,0.0,0.0
+2024,7,1,Max Verstappen,Red Bull Racing,1,1.0,120.0,211.0
+2024,7,4,Lando Norris,McLaren,2,2.0,80.0,116.0
+2024,7,16,Charles Leclerc,Ferrari,3,3.0,86.0,167.0
+2024,7,81,Oscar Piastri,McLaren,4,5.0,36.0,116.0
+2024,7,55,Carlos Sainz,Ferrari,5,4.0,75.0,167.0
+2024,7,44,Lewis Hamilton,Mercedes,6,8.0,20.0,56.0
+2024,7,63,George Russell,Mercedes,7,6.0,36.0,56.0
+2024,7,11,Sergio Perez,Red Bull Racing,8,11.0,91.0,211.0
+2024,7,18,Lance Stroll,Aston Martin,9,13.0,9.0,42.0
+2024,7,22,Yuki Tsunoda,RB F1 Team,10,7.0,13.0,13.0
+2024,7,27,Nico Hulkenberg,Haas F1 Team,11,10.0,4.0,5.0
+2024,7,20,Kevin Magnussen,Haas F1 Team,12,18.0,1.0,5.0
+2024,7,3,Daniel Ricciardo,RB F1 Team,13,9.0,0.0,13.0
+2024,7,31,Esteban Ocon,Alpine,14,12.0,1.0,1.0
+2024,7,24,Guanyu Zhou,Sauber,15,17.0,0.0,0.0
+2024,7,10,Pierre Gasly,Alpine,16,15.0,0.0,1.0
+2024,7,2,Logan Sargeant,Williams,17,19.0,0.0,0.0
+2024,7,77,Valtteri Bottas,Sauber,18,16.0,0.0,0.0
+2024,7,14,Fernando Alonso,Aston Martin,19,20.0,33.0,42.0
+2024,7,23,Alexander Albon,Williams,20,14.0,0.0,0.0
+2024,8,16,Charles Leclerc,Ferrari,1,1.0,101.0,192.0
+2024,8,81,Oscar Piastri,McLaren,2,2.0,48.0,146.0
+2024,8,55,Carlos Sainz,Ferrari,3,3.0,85.0,192.0
+2024,8,4,Lando Norris,McLaren,4,4.0,98.0,146.0
+2024,8,63,George Russell,Mercedes,5,5.0,43.0,71.0
+2024,8,1,Max Verstappen,Red Bull Racing,6,6.0,145.0,240.0
+2024,8,44,Lewis Hamilton,Mercedes,7,7.0,28.0,71.0
+2024,8,22,Yuki Tsunoda,RB F1 Team,8,8.0,14.0,14.0
+2024,8,23,Alexander Albon,Williams,9,9.0,0.0,0.0
+2024,8,10,Pierre Gasly,Alpine,10,10.0,0.0,1.0
+2024,8,14,Fernando Alonso,Aston Martin,11,14.0,33.0,44.0
+2024,8,3,Daniel Ricciardo,RB F1 Team,12,12.0,0.0,14.0
+2024,8,77,Valtteri Bottas,Sauber,13,17.0,0.0,0.0
+2024,8,18,Lance Stroll,Aston Martin,14,13.0,11.0,44.0
+2024,8,2,Logan Sargeant,Williams,15,15.0,0.0,0.0
+2024,8,24,Guanyu Zhou,Sauber,16,18.0,0.0,0.0
+2024,8,31,Esteban Ocon,Alpine,17,11.0,1.0,1.0
+2024,8,11,Sergio Perez,Red Bull Racing,18,16.0,95.0,240.0
+2024,8,27,Nico Hulkenberg,Haas F1 Team,19,19.0,4.0,5.0
+2024,8,20,Kevin Magnussen,Haas F1 Team,20,20.0,1.0,5.0
+2024,9,1,Max Verstappen,Red Bull Racing,1,2.0,153.0,248.0
+2024,9,4,Lando Norris,McLaren,2,3.0,110.0,176.0
+2024,9,63,George Russell,Mercedes,3,1.0,53.0,88.0
+2024,9,44,Lewis Hamilton,Mercedes,4,7.0,35.0,88.0
+2024,9,81,Oscar Piastri,McLaren,5,4.0,66.0,176.0
+2024,9,14,Fernando Alonso,Aston Martin,6,6.0,33.0,44.0
+2024,9,18,Lance Stroll,Aston Martin,7,9.0,11.0,44.0
+2024,9,3,Daniel Ricciardo,RB F1 Team,8,5.0,0.0,18.0
+2024,9,10,Pierre Gasly,Alpine,9,15.0,1.0,2.0
+2024,9,31,Esteban Ocon,Alpine,10,18.0,1.0,2.0
+2024,9,27,Nico Hulkenberg,Haas F1 Team,11,17.0,4.0,5.0
+2024,9,20,Kevin Magnussen,Haas F1 Team,12,14.0,1.0,5.0
+2024,9,77,Valtteri Bottas,Sauber,13,19.0,0.0,0.0
+2024,9,22,Yuki Tsunoda,RB F1 Team,14,8.0,18.0,18.0
+2024,9,24,Guanyu Zhou,Sauber,15,20.0,0.0,0.0
+2024,9,55,Carlos Sainz,Ferrari,16,12.0,100.0,232.0
+2024,9,23,Alexander Albon,Williams,17,10.0,2.0,2.0
+2024,9,11,Sergio Perez,Red Bull Racing,18,16.0,95.0,248.0
+2024,9,16,Charles Leclerc,Ferrari,19,11.0,126.0,232.0
+2024,9,2,Logan Sargeant,Williams,20,13.0,0.0,2.0
+2024,11,63,George Russell,Mercedes,1,3.0,80.0,143.0
+2024,11,81,Oscar Piastri,McLaren,2,7.0,82.0,229.0
+2024,11,55,Carlos Sainz,Ferrari,3,4.0,108.0,250.0
+2024,11,44,Lewis Hamilton,Mercedes,4,5.0,63.0,143.0
+2024,11,1,Max Verstappen,Red Bull Racing,5,1.0,203.0,302.0
+2024,11,27,Nico Hulkenberg,Haas F1 Team,6,9.0,4.0,5.0
+2024,11,11,Sergio Perez,Red Bull Racing,7,8.0,99.0,302.0
+2024,11,20,Kevin Magnussen,Haas F1 Team,8,12.0,1.0,5.0
+2024,11,3,Daniel Ricciardo,RB F1 Team,9,11.0,4.0,22.0
+2024,11,10,Pierre Gasly,Alpine,10,13.0,5.0,8.0
+2024,11,16,Charles Leclerc,Ferrari,11,6.0,136.0,250.0
+2024,11,31,Esteban Ocon,Alpine,12,10.0,3.0,8.0
+2024,11,18,Lance Stroll,Aston Martin,13,17.0,17.0,58.0
+2024,11,22,Yuki Tsunoda,RB F1 Team,14,14.0,18.0,22.0
+2024,11,23,Alexander Albon,Williams,15,16.0,2.0,2.0
+2024,11,77,Valtteri Bottas,Sauber,16,18.0,0.0,0.0
+2024,11,24,Guanyu Zhou,Sauber,17,20.0,0.0,0.0
+2024,11,14,Fernando Alonso,Aston Martin,18,15.0,41.0,58.0
+2024,11,2,Logan Sargeant,Williams,19,19.0,0.0,2.0
+2024,11,4,Lando Norris,McLaren,20,2.0,147.0,229.0
+2024,12,44,Lewis Hamilton,Mercedes,1,2.0,75.0,180.0
+2024,12,1,Max Verstappen,Red Bull Racing,2,4.0,213.0,318.0
+2024,12,4,Lando Norris,McLaren,3,3.0,147.0,247.0
+2024,12,81,Oscar Piastri,McLaren,4,5.0,100.0,247.0
+2024,12,55,Carlos Sainz,Ferrari,5,7.0,123.0,265.0
+2024,12,27,Nico Hulkenberg,Haas F1 Team,6,6.0,12.0,17.0
+2024,12,18,Lance Stroll,Aston Martin,7,8.0,17.0,58.0
+2024,12,14,Fernando Alonso,Aston Martin,8,10.0,41.0,58.0
+2024,12,23,Alexander Albon,Williams,9,9.0,2.0,2.0
+2024,12,22,Yuki Tsunoda,RB F1 Team,10,13.0,18.0,24.0
+2024,12,2,Logan Sargeant,Williams,11,12.0,0.0,2.0
+2024,12,20,Kevin Magnussen,Haas F1 Team,12,17.0,5.0,17.0
+2024,12,3,Daniel Ricciardo,RB F1 Team,13,15.0,6.0,24.0
+2024,12,16,Charles Leclerc,Ferrari,14,11.0,136.0,265.0
+2024,12,77,Valtteri Bottas,Sauber,15,16.0,0.0,0.0
+2024,12,31,Esteban Ocon,Alpine,16,18.0,3.0,9.0
+2024,12,11,Sergio Perez,Red Bull Racing,17,20.0,105.0,318.0
+2024,12,24,Guanyu Zhou,Sauber,18,14.0,0.0,0.0
+2024,12,63,George Russell,Mercedes,19,1.0,105.0,180.0
+2024,12,10,Pierre Gasly,Alpine,20,19.0,6.0,9.0
+2024,13,81,Oscar Piastri,McLaren,1,2.0,112.0,274.0
+2024,13,4,Lando Norris,McLaren,2,1.0,162.0,274.0
+2024,13,44,Lewis Hamilton,Mercedes,3,5.0,100.0,205.0
+2024,13,16,Charles Leclerc,Ferrari,4,6.0,136.0,276.0
+2024,13,1,Max Verstappen,Red Bull Racing,5,3.0,231.0,336.0
+2024,13,55,Carlos Sainz,Ferrari,6,4.0,134.0,276.0
+2024,13,11,Sergio Perez,Red Bull Racing,7,16.0,105.0,336.0
+2024,13,63,George Russell,Mercedes,8,17.0,105.0,205.0
+2024,13,22,Yuki Tsunoda,RB F1 Team,9,10.0,19.0,25.0
+2024,13,18,Lance Stroll,Aston Martin,10,8.0,23.0,68.0
+2024,13,14,Fernando Alonso,Aston Martin,11,7.0,45.0,68.0
+2024,13,3,Daniel Ricciardo,RB F1 Team,12,9.0,6.0,25.0
+2024,13,27,Nico Hulkenberg,Haas F1 Team,13,11.0,20.0,25.0
+2024,13,23,Alexander Albon,Williams,14,13.0,4.0,4.0
+2024,13,20,Kevin Magnussen,Haas F1 Team,15,15.0,5.0,25.0
+2024,13,77,Valtteri Bottas,Sauber,16,12.0,0.0,0.0
+2024,13,2,Logan Sargeant,Williams,17,14.0,0.0,4.0
+2024,13,31,Esteban Ocon,Alpine,18,19.0,3.0,9.0
+2024,13,24,Guanyu Zhou,Sauber,19,18.0,0.0,0.0
+2024,13,10,Pierre Gasly,Alpine,20,20.0,6.0,9.0
+2024,14,44,Lewis Hamilton,Mercedes,1,3.0,115.0,225.0
+2024,14,81,Oscar Piastri,McLaren,2,5.0,137.0,317.0
+2024,14,16,Charles Leclerc,Ferrari,3,1.0,148.0,296.0
+2024,14,1,Max Verstappen,Red Bull Racing,4,11.0,241.0,352.0
+2024,14,4,Lando Norris,McLaren,5,4.0,180.0,317.0
+2024,14,55,Carlos Sainz,Ferrari,6,7.0,142.0,296.0
+2024,14,11,Sergio Perez,Red Bull Racing,7,2.0,111.0,352.0
+2024,14,14,Fernando Alonso,Aston Martin,8,8.0,45.0,69.0
+2024,14,31,Esteban Ocon,Alpine,9,9.0,3.0,9.0
+2024,14,3,Daniel Ricciardo,RB F1 Team,10,13.0,6.0,27.0
+2024,14,18,Lance Stroll,Aston Martin,11,15.0,24.0,69.0
+2024,14,23,Alexander Albon,Williams,12,10.0,4.0,4.0
+2024,14,10,Pierre Gasly,Alpine,13,12.0,6.0,9.0
+2024,14,20,Kevin Magnussen,Haas F1 Team,14,17.0,5.0,25.0
+2024,14,77,Valtteri Bottas,Sauber,15,14.0,0.0,0.0
+2024,14,22,Yuki Tsunoda,RB F1 Team,16,20.0,21.0,27.0
+2024,14,2,Logan Sargeant,Williams,17,18.0,0.0,4.0
+2024,14,27,Nico Hulkenberg,Haas F1 Team,18,16.0,20.0,25.0
+2024,14,24,Guanyu Zhou,Sauber,19,19.0,0.0,0.0
+2024,14,63,George Russell,Mercedes,20,6.0,110.0,225.0
+2024,15,4,Lando Norris,McLaren,1,1.0,190.0,345.0
+2024,15,1,Max Verstappen,Red Bull Racing,2,2.0,253.0,371.0
+2024,15,16,Charles Leclerc,Ferrari,3,6.0,163.0,319.0
+2024,15,81,Oscar Piastri,McLaren,4,3.0,155.0,345.0
+2024,15,55,Carlos Sainz,Ferrari,5,10.0,150.0,319.0
+2024,15,11,Sergio Perez,Red Bull Racing,6,5.0,118.0,371.0
+2024,15,63,George Russell,Mercedes,7,4.0,110.0,250.0
+2024,15,44,Lewis Hamilton,Mercedes,8,14.0,140.0,250.0
+2024,15,10,Pierre Gasly,Alpine,9,9.0,6.0,11.0
+2024,15,14,Fernando Alonso,Aston Martin,10,7.0,49.0,73.0
+2024,15,27,Nico Hulkenberg,Haas F1 Team,11,12.0,20.0,25.0
+2024,15,3,Daniel Ricciardo,RB F1 Team,12,13.0,7.0,28.0
+2024,15,18,Lance Stroll,Aston Martin,13,8.0,24.0,73.0
+2024,15,23,Alexander Albon,Williams,14,19.0,4.0,4.0
+2024,15,31,Esteban Ocon,Alpine,15,15.0,5.0,11.0
+2024,15,2,Logan Sargeant,Williams,16,18.0,0.0,4.0
+2024,15,22,Yuki Tsunoda,RB F1 Team,17,11.0,21.0,28.0
+2024,15,20,Kevin Magnussen,Haas F1 Team,18,20.0,5.0,25.0
+2024,15,77,Valtteri Bottas,Sauber,19,16.0,0.0,0.0
+2024,15,24,Guanyu Zhou,Sauber,20,17.0,0.0,0.0
+2024,16,16,Charles Leclerc,Ferrari,1,4.0,178.0,344.0
+2024,16,81,Oscar Piastri,McLaren,2,2.0,167.0,383.0
+2024,16,4,Lando Norris,McLaren,3,1.0,216.0,383.0
+2024,16,55,Carlos Sainz,Ferrari,4,5.0,160.0,344.0
+2024,16,44,Lewis Hamilton,Mercedes,5,6.0,144.0,260.0
+2024,16,1,Max Verstappen,Red Bull Racing,6,7.0,271.0,397.0
+2024,16,63,George Russell,Mercedes,7,3.0,116.0,260.0
+2024,16,11,Sergio Perez,Red Bull Racing,8,8.0,126.0,397.0
+2024,16,23,Alexander Albon,Williams,9,9.0,4.0,4.0
+2024,16,20,Kevin Magnussen,Haas F1 Team,10,13.0,5.0,25.0
+2024,16,14,Fernando Alonso,Aston Martin,11,11.0,50.0,74.0
+2024,16,43,Franco Colapinto,Williams,12,18.0,0.0,4.0
+2024,16,3,Daniel Ricciardo,RB F1 Team,13,12.0,7.0,28.0
+2024,16,31,Esteban Ocon,Alpine,14,15.0,5.0,13.0
+2024,16,10,Pierre Gasly,Alpine,15,14.0,8.0,13.0
+2024,16,77,Valtteri Bottas,Sauber,16,19.0,0.0,0.0
+2024,16,27,Nico Hulkenberg,Haas F1 Team,17,10.0,20.0,25.0
+2024,16,24,Guanyu Zhou,Sauber,18,20.0,0.0,0.0
+2024,16,18,Lance Stroll,Aston Martin,19,17.0,24.0,74.0
+2024,16,22,Yuki Tsunoda,RB F1 Team,20,16.0,21.0,28.0
+2024,17,81,Oscar Piastri,McLaren,1,2.0,185.0,417.0
+2024,17,16,Charles Leclerc,Ferrari,2,1.0,203.0,381.0
+2024,17,63,George Russell,Mercedes,3,5.0,122.0,276.0
+2024,17,4,Lando Norris,McLaren,4,15.0,232.0,417.0
+2024,17,1,Max Verstappen,Red Bull Racing,5,6.0,279.0,409.0
+2024,17,14,Fernando Alonso,Aston Martin,6,7.0,50.0,74.0
+2024,17,23,Alexander Albon,Williams,7,9.0,6.0,6.0
+2024,17,43,Franco Colapinto,Williams,8,8.0,0.0,6.0
+2024,17,44,Lewis Hamilton,Mercedes,9,19.0,154.0,276.0
+2024,17,50,Oliver Bearman,Haas F1 Team,10,10.0,0.0,26.0
+2024,17,27,Nico Hulkenberg,Haas F1 Team,11,12.0,20.0,26.0
+2024,17,10,Pierre Gasly,Alpine,12,18.0,8.0,13.0
+2024,17,3,Daniel Ricciardo,RB F1 Team,13,14.0,7.0,28.0
+2024,17,24,Guanyu Zhou,Sauber,14,17.0,0.0,0.0
+2024,17,31,Esteban Ocon,Alpine,15,20.0,5.0,13.0
+2024,17,77,Valtteri Bottas,Sauber,16,16.0,0.0,0.0
+2024,17,11,Sergio Perez,Red Bull Racing,17,4.0,130.0,409.0
+2024,17,55,Carlos Sainz,Ferrari,18,3.0,172.0,381.0
+2024,17,18,Lance Stroll,Aston Martin,19,13.0,24.0,74.0
+2024,17,22,Yuki Tsunoda,RB F1 Team,20,11.0,21.0,28.0
+2024,18,4,Lando Norris,McLaren,1,1.0,245.0,455.0
+2024,18,1,Max Verstappen,Red Bull Racing,2,2.0,289.0,419.0
+2024,18,81,Oscar Piastri,McLaren,3,5.0,210.0,455.0
+2024,18,63,George Russell,Mercedes,4,4.0,137.0,293.0
+2024,18,16,Charles Leclerc,Ferrari,5,9.0,221.0,399.0
+2024,18,44,Lewis Hamilton,Mercedes,6,3.0,156.0,293.0
+2024,18,55,Carlos Sainz,Ferrari,7,10.0,172.0,399.0
+2024,18,14,Fernando Alonso,Aston Martin,8,7.0,58.0,82.0
+2024,18,27,Nico Hulkenberg,Haas F1 Team,9,6.0,20.0,27.0
+2024,18,11,Sergio Perez,Red Bull Racing,10,13.0,130.0,419.0
+2024,18,43,Franco Colapinto,Williams,11,12.0,4.0,16.0
+2024,18,22,Yuki Tsunoda,RB F1 Team,12,8.0,21.0,28.0
+2024,18,31,Esteban Ocon,Alpine,13,15.0,5.0,13.0
+2024,18,18,Lance Stroll,Aston Martin,14,17.0,24.0,82.0
+2024,18,24,Guanyu Zhou,Sauber,15,20.0,0.0,0.0
+2024,18,77,Valtteri Bottas,Sauber,16,19.0,0.0,0.0
+2024,18,10,Pierre Gasly,Alpine,17,18.0,8.0,13.0
+2024,18,3,Daniel Ricciardo,RB F1 Team,18,16.0,7.0,28.0
+2024,18,20,Kevin Magnussen,Haas F1 Team,19,14.0,6.0,27.0
+2024,18,23,Alexander Albon,Williams,20,11.0,12.0,16.0
+2024,19,16,Charles Leclerc,Ferrari,1,4.0,231.0,415.0
+2024,19,55,Carlos Sainz,Ferrari,2,3.0,178.0,415.0
+2024,19,1,Max Verstappen,Red Bull Racing,3,2.0,307.0,438.0
+2024,19,4,Lando Norris,McLaren,4,1.0,270.0,495.0
+2024,19,81,Oscar Piastri,McLaren,5,5.0,225.0,495.0
+2024,19,63,George Russell,Mercedes,6,20.0,149.0,313.0
+2024,19,11,Sergio Perez,Red Bull Racing,7,9.0,131.0,438.0
+2024,19,27,Nico Hulkenberg,Haas F1 Team,8,11.0,22.0,29.0
+2024,19,30,Liam Lawson,RB F1 Team,9,19.0,0.0,28.0
+2024,19,43,Franco Colapinto,Williams,10,15.0,4.0,16.0
+2024,19,20,Kevin Magnussen,Haas F1 Team,11,8.0,6.0,29.0
+2024,19,10,Pierre Gasly,Alpine,12,6.0,8.0,13.0
+2024,19,14,Fernando Alonso,Aston Martin,13,7.0,62.0,86.0
+2024,19,22,Yuki Tsunoda,RB F1 Team,14,10.0,21.0,28.0
+2024,19,18,Lance Stroll,Aston Martin,15,13.0,24.0,86.0
+2024,19,23,Alexander Albon,Williams,16,14.0,12.0,16.0
+2024,19,77,Valtteri Bottas,Sauber,17,16.0,0.0,0.0
+2024,19,31,Esteban Ocon,Alpine,18,12.0,5.0,13.0
+2024,19,24,Guanyu Zhou,Sauber,19,18.0,0.0,0.0
+2024,19,44,Lewis Hamilton,Mercedes,20,17.0,164.0,313.0
+2024,20,55,Carlos Sainz,Ferrari,1,1.0,196.0,458.0
+2024,20,4,Lando Norris,McLaren,2,3.0,282.0,517.0
+2024,20,16,Charles Leclerc,Ferrari,3,4.0,256.0,458.0
+2024,20,44,Lewis Hamilton,Mercedes,4,6.0,164.0,321.0
+2024,20,63,George Russell,Mercedes,5,5.0,157.0,321.0
+2024,20,1,Max Verstappen,Red Bull Racing,6,2.0,322.0,459.0
+2024,20,20,Kevin Magnussen,Haas F1 Team,7,7.0,6.0,33.0
+2024,20,81,Oscar Piastri,McLaren,8,17.0,235.0,517.0
+2024,20,27,Nico Hulkenberg,Haas F1 Team,9,10.0,26.0,33.0
+2024,20,10,Pierre Gasly,Alpine,10,8.0,8.0,13.0
+2024,20,18,Lance Stroll,Aston Martin,11,14.0,24.0,86.0
+2024,20,43,Franco Colapinto,Williams,12,16.0,5.0,17.0
+2024,20,31,Esteban Ocon,Alpine,13,21.0,5.0,13.0
+2024,20,77,Valtteri Bottas,Sauber,14,15.0,0.0,0.0
+2024,20,24,Guanyu Zhou,Sauber,15,19.0,0.0,0.0
+2024,20,30,Liam Lawson,RB F1 Team,16,12.0,2.0,30.0
+2024,20,11,Sergio Perez,Red Bull Racing,17,18.0,137.0,459.0
+2024,20,14,Fernando Alonso,Aston Martin,18,13.0,62.0,86.0
+2024,20,23,Alexander Albon,Williams,19,9.0,12.0,17.0
+2024,20,22,Yuki Tsunoda,RB F1 Team,20,11.0,21.0,30.0
+2024,21,1,Max Verstappen,Red Bull Racing,1,17.0,330.0,467.0
+2024,21,31,Esteban Ocon,Alpine,2,4.0,5.0,14.0
+2024,21,10,Pierre Gasly,Alpine,3,13.0,9.0,14.0
+2024,21,63,George Russell,Mercedes,4,2.0,167.0,343.0
+2024,21,16,Charles Leclerc,Ferrari,5,6.0,272.0,499.0
+2024,21,4,Lando Norris,McLaren,6,1.0,300.0,539.0
+2024,21,22,Yuki Tsunoda,RB F1 Team,7,3.0,21.0,30.0
+2024,21,81,Oscar Piastri,McLaren,8,8.0,239.0,539.0
+2024,21,30,Liam Lawson,RB F1 Team,9,5.0,2.0,30.0
+2024,21,44,Lewis Hamilton,Mercedes,10,14.0,176.0,343.0
+2024,21,11,Sergio Perez,Red Bull Racing,11,12.0,137.0,467.0
+2024,21,50,Oliver Bearman,Haas F1 Team,12,15.0,1.0,41.0
+2024,21,77,Valtteri Bottas,Sauber,13,11.0,0.0,0.0
+2024,21,14,Fernando Alonso,Aston Martin,14,9.0,62.0,86.0
+2024,21,24,Guanyu Zhou,Sauber,15,19.0,0.0,0.0
+2024,21,55,Carlos Sainz,Ferrari,16,20.0,221.0,499.0
+2024,21,43,Franco Colapinto,Williams,17,16.0,5.0,17.0
+2024,21,23,Alexander Albon,Williams,18,7.0,12.0,17.0
+2024,21,18,Lance Stroll,Aston Martin,19,10.0,24.0,86.0
+2024,21,27,Nico Hulkenberg,Haas F1 Team,20,18.0,28.0,41.0
+2024,22,63,George Russell,Mercedes,1,1.0,179.0,356.0
+2024,22,44,Lewis Hamilton,Mercedes,2,10.0,177.0,356.0
+2024,22,55,Carlos Sainz,Ferrari,3,2.0,221.0,509.0
+2024,22,16,Charles Leclerc,Ferrari,4,4.0,282.0,509.0
+2024,22,1,Max Verstappen,Red Bull Racing,5,5.0,356.0,493.0
+2024,22,4,Lando Norris,McLaren,6,6.0,308.0,551.0
+2024,22,81,Oscar Piastri,McLaren,7,8.0,243.0,551.0
+2024,22,27,Nico Hulkenberg,Haas F1 Team,8,9.0,28.0,41.0
+2024,22,22,Yuki Tsunoda,RB F1 Team,9,7.0,27.0,38.0
+2024,22,11,Sergio Perez,Red Bull Racing,10,15.0,137.0,493.0
+2024,22,14,Fernando Alonso,Aston Martin,11,16.0,62.0,86.0
+2024,22,20,Kevin Magnussen,Haas F1 Team,12,12.0,12.0,41.0
+2024,22,24,Guanyu Zhou,Sauber,13,13.0,0.0,0.0
+2024,22,43,Franco Colapinto,Williams,14,20.0,5.0,17.0
+2024,22,18,Lance Stroll,Aston Martin,15,18.0,24.0,86.0
+2024,22,30,Liam Lawson,RB F1 Team,16,14.0,4.0,38.0
+2024,22,31,Esteban Ocon,Alpine,17,11.0,23.0,47.0
+2024,22,77,Valtteri Bottas,Sauber,18,19.0,0.0,0.0
+2024,22,23,Alexander Albon,Williams,19,17.0,12.0,17.0
+2024,22,10,Pierre Gasly,Alpine,20,3.0,24.0,47.0
+2024,23,1,Max Verstappen,Red Bull Racing,1,2.0,366.0,504.0
+2024,23,16,Charles Leclerc,Ferrari,2,5.0,294.0,536.0
+2024,23,81,Oscar Piastri,McLaren,3,4.0,249.0,566.0
+2024,23,63,George Russell,Mercedes,4,1.0,204.0,399.0
+2024,23,10,Pierre Gasly,Alpine,5,11.0,24.0,47.0
+2024,23,55,Carlos Sainz,Ferrari,6,7.0,236.0,536.0
+2024,23,14,Fernando Alonso,Aston Martin,7,8.0,62.0,86.0
+2024,23,24,Guanyu Zhou,Sauber,8,12.0,0.0,0.0
+2024,23,20,Kevin Magnussen,Haas F1 Team,9,10.0,12.0,45.0
+2024,23,4,Lando Norris,McLaren,10,3.0,317.0,566.0
+2024,23,77,Valtteri Bottas,Sauber,11,13.0,0.0,0.0
+2024,23,44,Lewis Hamilton,Mercedes,12,6.0,195.0,399.0
+2024,23,22,Yuki Tsunoda,RB F1 Team,13,14.0,29.0,40.0
+2024,23,30,Liam Lawson,RB F1 Team,14,17.0,4.0,40.0
+2024,23,23,Alexander Albon,Williams,15,16.0,12.0,17.0
+2024,23,27,Nico Hulkenberg,Haas F1 Team,16,18.0,32.0,45.0
+2024,23,11,Sergio Perez,Red Bull Racing,17,9.0,138.0,504.0
+2024,23,18,Lance Stroll,Aston Martin,18,15.0,24.0,86.0
+2024,23,43,Franco Colapinto,Williams,19,19.0,5.0,17.0
+2024,23,31,Esteban Ocon,Alpine,20,20.0,23.0,47.0
+2024,24,4,Lando Norris,McLaren,1,1.0,319.0,583.0
+2024,24,55,Carlos Sainz,Ferrari,2,3.0,244.0,562.0
+2024,24,16,Charles Leclerc,Ferrari,3,19.0,312.0,562.0
+2024,24,44,Lewis Hamilton,Mercedes,4,16.0,195.0,411.0
+2024,24,63,George Russell,Mercedes,5,6.0,216.0,411.0
+2024,24,1,Max Verstappen,Red Bull Racing,6,4.0,391.0,529.0
+2024,24,10,Pierre Gasly,Alpine,7,5.0,34.0,57.0
+2024,24,27,Nico Hulkenberg,Haas F1 Team,8,7.0,32.0,47.0
+2024,24,14,Fernando Alonso,Aston Martin,9,8.0,68.0,92.0
+2024,24,81,Oscar Piastri,McLaren,10,2.0,264.0,583.0
+2024,24,23,Alexander Albon,Williams,11,18.0,12.0,17.0
+2024,24,22,Yuki Tsunoda,RB F1 Team,12,11.0,29.0,40.0
+2024,24,24,Guanyu Zhou,Sauber,13,15.0,4.0,4.0
+2024,24,18,Lance Stroll,Aston Martin,14,13.0,24.0,92.0
+2024,24,61,Jack Doohan,Alpine,15,17.0,0.0,57.0
+2024,24,20,Kevin Magnussen,Haas F1 Team,16,14.0,14.0,47.0
+2024,24,30,Liam Lawson,RB F1 Team,17,12.0,4.0,40.0
+2024,24,77,Valtteri Bottas,Sauber,18,9.0,0.0,4.0
+2024,24,43,Franco Colapinto,Williams,19,20.0,5.0,17.0
+2024,24,11,Sergio Perez,Red Bull Racing,20,10.0,138.0,529.0
+2025,1,4,Lando Norris,McLaren,1,1.0,0.0,0.0
+2025,1,1,Max Verstappen,Red Bull Racing,2,3.0,0.0,0.0
+2025,1,63,George Russell,Mercedes,3,4.0,0.0,0.0
+2025,1,12,Andrea Kimi Antonelli,Mercedes,4,16.0,0.0,0.0
+2025,1,23,Alexander Albon,Williams,5,6.0,0.0,0.0
+2025,1,18,Lance Stroll,Aston Martin,6,13.0,0.0,0.0
+2025,1,27,Nico Hulkenberg,Sauber,7,17.0,0.0,0.0
+2025,1,16,Charles Leclerc,Ferrari,8,7.0,0.0,0.0
+2025,1,81,Oscar Piastri,McLaren,9,2.0,0.0,0.0
+2025,1,44,Lewis Hamilton,Ferrari,10,8.0,0.0,0.0
+2025,1,10,Pierre Gasly,Alpine,11,9.0,0.0,0.0
+2025,1,22,Yuki Tsunoda,RB F1 Team,12,5.0,0.0,0.0
+2025,1,31,Esteban Ocon,Haas F1 Team,13,19.0,0.0,0.0
+2025,1,87,Oliver Bearman,Haas F1 Team,14,20.0,0.0,0.0
+2025,1,30,Liam Lawson,Red Bull Racing,15,18.0,0.0,0.0
+2025,1,5,Gabriel Bortoleto,Sauber,16,15.0,0.0,0.0
+2025,1,14,Fernando Alonso,Aston Martin,17,12.0,0.0,0.0
+2025,1,55,Carlos Sainz,Williams,18,10.0,0.0,0.0
+2025,1,7,Jack Doohan,Alpine,19,14.0,0.0,0.0
+2025,1,6,Isack Hadjar,RB F1 Team,20,11.0,0.0,0.0
+2025,2,81,Oscar Piastri,McLaren,1,1.0,2.0,27.0
+2025,2,4,Lando Norris,McLaren,2,3.0,25.0,27.0
+2025,2,63,George Russell,Mercedes,3,2.0,15.0,27.0
+2025,2,1,Max Verstappen,Red Bull Racing,4,4.0,18.0,18.0
+2025,2,31,Esteban Ocon,Haas F1 Team,5,11.0,0.0,0.0
+2025,2,12,Kimi Antonelli,Mercedes,6,8.0,12.0,27.0
+2025,2,23,Alexander Albon,Williams,7,10.0,10.0,10.0
+2025,2,87,Oliver Bearman,Haas F1 Team,8,17.0,0.0,0.0
+2025,2,18,Lance Stroll,Aston Martin,9,14.0,8.0,8.0
+2025,2,55,Carlos Sainz,Williams,10,15.0,0.0,10.0
+2025,2,6,Isack Hadjar,RB F1 Team,11,7.0,0.0,0.0
+2025,2,30,Liam Lawson,Red Bull Racing,12,20.0,0.0,18.0
+2025,2,7,Jack Doohan,Alpine,13,18.0,0.0,0.0
+2025,2,5,Gabriel Bortoleto,Sauber,14,19.0,0.0,6.0
+2025,2,27,Nico Hulkenberg,Sauber,15,12.0,6.0,6.0
+2025,2,22,Yuki Tsunoda,RB F1 Team,16,9.0,0.0,0.0
+2025,2,14,Fernando Alonso,Aston Martin,17,13.0,0.0,8.0
+2025,2,16,Charles Leclerc,Ferrari,18,6.0,4.0,5.0
+2025,2,44,Lewis Hamilton,Ferrari,19,5.0,1.0,5.0
+2025,2,10,Pierre Gasly,Alpine,20,16.0,0.0,0.0
+2025,3,1,Max Verstappen,Red Bull Racing,1,1.0,30.0,30.0
+2025,3,4,Lando Norris,McLaren,2,2.0,43.0,70.0
+2025,3,81,Oscar Piastri,McLaren,3,3.0,27.0,70.0
+2025,3,16,Charles Leclerc,Ferrari,4,4.0,4.0,5.0
+2025,3,63,George Russell,Mercedes,5,5.0,30.0,50.0
+2025,3,12,Kimi Antonelli,Mercedes,6,6.0,20.0,50.0
+2025,3,44,Lewis Hamilton,Ferrari,7,8.0,1.0,5.0
+2025,3,6,Isack Hadjar,RB F1 Team,8,7.0,0.0,0.0
+2025,3,23,Alexander Albon,Williams,9,9.0,16.0,17.0
+2025,3,87,Oliver Bearman,Haas F1 Team,10,10.0,4.0,14.0
+2025,3,14,Fernando Alonso,Aston Martin,11,12.0,0.0,10.0
+2025,3,22,Yuki Tsunoda,Red Bull Racing,12,14.0,0.0,30.0
+2025,3,10,Pierre Gasly,Alpine,13,11.0,0.0,0.0
+2025,3,55,Carlos Sainz,Williams,14,15.0,1.0,17.0
+2025,3,7,Jack Doohan,Alpine,15,19.0,0.0,0.0
+2025,3,27,Nico Hulkenberg,Sauber,16,16.0,6.0,6.0
+2025,3,30,Liam Lawson,RB F1 Team,17,13.0,0.0,0.0
+2025,3,31,Esteban Ocon,Haas F1 Team,18,18.0,10.0,14.0
+2025,3,5,Gabriel Bortoleto,Sauber,19,17.0,0.0,6.0
+2025,3,18,Lance Stroll,Aston Martin,20,20.0,10.0,10.0
+2025,4,81,Oscar Piastri,McLaren,1,1.0,42.0,103.0
+2025,4,63,George Russell,Mercedes,2,3.0,40.0,68.0
+2025,4,4,Lando Norris,McLaren,3,6.0,61.0,103.0
+2025,4,16,Charles Leclerc,Ferrari,4,2.0,16.0,23.0
+2025,4,44,Lewis Hamilton,Ferrari,5,9.0,7.0,23.0
+2025,4,1,Max Verstappen,Red Bull Racing,6,7.0,55.0,55.0
+2025,4,10,Pierre Gasly,Alpine,7,4.0,0.0,0.0
+2025,4,31,Esteban Ocon,Haas F1 Team,8,14.0,10.0,15.0
+2025,4,22,Yuki Tsunoda,Red Bull Racing,9,10.0,0.0,55.0
+2025,4,87,Oliver Bearman,Haas F1 Team,10,20.0,5.0,15.0
+2025,4,12,Kimi Antonelli,Mercedes,11,5.0,28.0,68.0
+2025,4,23,Alexander Albon,Williams,12,15.0,18.0,19.0
+2025,4,6,Isack Hadjar,RB F1 Team,13,12.0,4.0,4.0
+2025,4,7,Jack Doohan,Alpine,14,11.0,0.0,0.0
+2025,4,14,Fernando Alonso,Aston Martin,15,13.0,0.0,10.0
+2025,4,30,Liam Lawson,RB F1 Team,16,17.0,0.0,4.0
+2025,4,18,Lance Stroll,Aston Martin,17,19.0,10.0,10.0
+2025,4,5,Gabriel Bortoleto,Sauber,18,18.0,0.0,6.0
+2025,4,55,Carlos Sainz,Williams,19,8.0,1.0,19.0
+2025,4,27,Nico Hulkenberg,Sauber,20,16.0,6.0,6.0
+2025,5,81,Oscar Piastri,McLaren,1,2.0,67.0,143.0
+2025,5,1,Max Verstappen,Red Bull Racing,2,1.0,63.0,65.0
+2025,5,16,Charles Leclerc,Ferrari,3,4.0,28.0,45.0
+2025,5,4,Lando Norris,McLaren,4,10.0,76.0,143.0
+2025,5,63,George Russell,Mercedes,5,3.0,58.0,86.0
+2025,5,12,Kimi Antonelli,Mercedes,6,5.0,28.0,86.0
+2025,5,44,Lewis Hamilton,Ferrari,7,7.0,17.0,45.0
+2025,5,55,Carlos Sainz,Williams,8,6.0,1.0,19.0
+2025,5,23,Alexander Albon,Williams,9,11.0,18.0,19.0
+2025,5,6,Isack Hadjar,RB F1 Team,10,14.0,4.0,4.0
+2025,5,14,Fernando Alonso,Aston Martin,11,13.0,0.0,10.0
+2025,5,30,Liam Lawson,RB F1 Team,12,12.0,0.0,4.0
+2025,5,87,Oliver Bearman,Haas F1 Team,13,15.0,6.0,20.0
+2025,5,31,Esteban Ocon,Haas F1 Team,14,19.0,14.0,20.0
+2025,5,27,Nico Hulkenberg,Sauber,15,18.0,6.0,6.0
+2025,5,18,Lance Stroll,Aston Martin,16,16.0,10.0,10.0
+2025,5,7,Jack Doohan,Alpine,17,17.0,0.0,6.0
+2025,5,5,Gabriel Bortoleto,Sauber,18,20.0,0.0,6.0
+2025,5,22,Yuki Tsunoda,Red Bull Racing,19,8.0,2.0,65.0
+2025,5,10,Pierre Gasly,Alpine,20,9.0,6.0,6.0
+2025,6,81,Oscar Piastri,McLaren,1,4.0,92.0,180.0
+2025,6,4,Lando Norris,McLaren,2,2.0,88.0,180.0
+2025,6,63,George Russell,Mercedes,3,5.0,68.0,104.0
+2025,6,1,Max Verstappen,Red Bull Racing,4,1.0,81.0,83.0
+2025,6,23,Alexander Albon,Williams,5,7.0,20.0,25.0
+2025,6,12,Kimi Antonelli,Mercedes,6,3.0,36.0,104.0
+2025,6,16,Charles Leclerc,Ferrari,7,8.0,43.0,66.0
+2025,6,44,Lewis Hamilton,Ferrari,8,12.0,23.0,66.0
+2025,6,55,Carlos Sainz,Williams,9,6.0,5.0,25.0
+2025,6,22,Yuki Tsunoda,Red Bull Racing,10,10.0,2.0,83.0
+2025,6,6,Isack Hadjar,RB F1 Team,11,11.0,5.0,5.0
+2025,6,31,Esteban Ocon,Haas F1 Team,12,9.0,14.0,20.0
+2025,6,10,Pierre Gasly,Alpine,13,20.0,6.0,6.0
+2025,6,27,Nico Hulkenberg,Sauber,14,16.0,6.0,6.0
+2025,6,14,Fernando Alonso,Aston Martin,15,17.0,0.0,10.0
+2025,6,18,Lance Stroll,Aston Martin,16,18.0,10.0,10.0
+2025,6,30,Liam Lawson,RB F1 Team,17,15.0,0.0,5.0
+2025,6,5,Gabriel Bortoleto,Sauber,18,13.0,0.0,6.0
+2025,6,87,Oliver Bearman,Haas F1 Team,19,19.0,6.0,20.0
+2025,6,7,Jack Doohan,Alpine,20,14.0,0.0,6.0
+2025,7,1,Max Verstappen,Red Bull Racing,1,2.0,93.0,96.0
+2025,7,4,Lando Norris,McLaren,2,4.0,106.0,223.0
+2025,7,81,Oscar Piastri,McLaren,3,1.0,117.0,223.0
+2025,7,44,Lewis Hamilton,Ferrari,4,12.0,27.0,76.0
+2025,7,23,Alexander Albon,Williams,5,7.0,30.0,37.0
+2025,7,16,Charles Leclerc,Ferrari,6,11.0,49.0,76.0
+2025,7,63,George Russell,Mercedes,7,3.0,83.0,127.0
+2025,7,55,Carlos Sainz,Williams,8,6.0,7.0,37.0
+2025,7,6,Isack Hadjar,RB F1 Team,9,9.0,5.0,5.0
+2025,7,22,Yuki Tsunoda,Red Bull Racing,10,20.0,3.0,96.0
+2025,7,14,Fernando Alonso,Aston Martin,11,5.0,0.0,10.0
+2025,7,27,Nico Hulkenberg,Sauber,12,17.0,6.0,6.0
+2025,7,10,Pierre Gasly,Alpine,13,10.0,6.0,6.0
+2025,7,30,Liam Lawson,RB F1 Team,14,15.0,0.0,5.0
+2025,7,18,Lance Stroll,Aston Martin,15,8.0,10.0,10.0
+2025,7,43,Franco Colapinto,Alpine,16,16.0,0.0,6.0
+2025,7,87,Oliver Bearman,Haas F1 Team,17,19.0,6.0,20.0
+2025,7,5,Gabriel Bortoleto,Sauber,18,14.0,0.0,6.0
+2025,7,12,Kimi Antonelli,Mercedes,19,13.0,44.0,127.0
+2025,7,31,Esteban Ocon,Haas F1 Team,20,18.0,14.0,20.0
+2025,8,4,Lando Norris,McLaren,1,1.0,124.0,256.0
+2025,8,16,Charles Leclerc,Ferrari,2,2.0,57.0,96.0
+2025,8,81,Oscar Piastri,McLaren,3,3.0,132.0,256.0
+2025,8,1,Max Verstappen,Red Bull Racing,4,4.0,118.0,122.0
+2025,8,44,Lewis Hamilton,Ferrari,5,7.0,39.0,96.0
+2025,8,6,Isack Hadjar,RB F1 Team,6,5.0,7.0,7.0
+2025,8,31,Esteban Ocon,Haas F1 Team,7,8.0,14.0,20.0
+2025,8,30,Liam Lawson,RB F1 Team,8,9.0,0.0,7.0
+2025,8,23,Alexander Albon,Williams,9,10.0,40.0,51.0
+2025,8,55,Carlos Sainz,Williams,10,11.0,11.0,51.0
+2025,8,63,George Russell,Mercedes,11,14.0,89.0,133.0
+2025,8,87,Oliver Bearman,Haas F1 Team,12,20.0,6.0,20.0
+2025,8,43,Franco Colapinto,Alpine,13,18.0,0.0,6.0
+2025,8,5,Gabriel Bortoleto,Sauber,14,16.0,0.0,6.0
+2025,8,18,Lance Stroll,Aston Martin,15,19.0,10.0,10.0
+2025,8,27,Nico Hulkenberg,Sauber,16,13.0,6.0,6.0
+2025,8,22,Yuki Tsunoda,Red Bull Racing,17,12.0,4.0,122.0
+2025,8,12,Kimi Antonelli,Mercedes,18,15.0,44.0,133.0
+2025,8,14,Fernando Alonso,Aston Martin,19,6.0,0.0,10.0
+2025,8,10,Pierre Gasly,Alpine,20,17.0,6.0,6.0
+2025,9,81,Oscar Piastri,McLaren,1,1.0,147.0,296.0
+2025,9,4,Lando Norris,McLaren,2,2.0,149.0,296.0
+2025,9,16,Charles Leclerc,Ferrari,3,7.0,75.0,124.0
+2025,9,63,George Russell,Mercedes,4,4.0,89.0,133.0
+2025,9,27,Nico Hulkenberg,Sauber,5,15.0,6.0,6.0
+2025,9,44,Lewis Hamilton,Ferrari,6,5.0,49.0,124.0
+2025,9,6,Isack Hadjar,RB F1 Team,7,9.0,15.0,19.0
+2025,9,10,Pierre Gasly,Alpine,8,8.0,6.0,6.0
+2025,9,14,Fernando Alonso,Aston Martin,9,10.0,0.0,10.0
+2025,9,1,Max Verstappen,Red Bull Racing,10,3.0,130.0,134.0
+2025,9,30,Liam Lawson,RB F1 Team,11,13.0,4.0,19.0
+2025,9,5,Gabriel Bortoleto,Sauber,12,12.0,0.0,6.0
+2025,9,22,Yuki Tsunoda,Red Bull Racing,13,19.0,4.0,134.0
+2025,9,55,Carlos Sainz,Williams,14,17.0,12.0,54.0
+2025,9,43,Franco Colapinto,Alpine,15,18.0,0.0,6.0
+2025,9,31,Esteban Ocon,Haas F1 Team,16,16.0,20.0,26.0
+2025,9,87,Oliver Bearman,Haas F1 Team,17,14.0,6.0,26.0
+2025,9,12,Kimi Antonelli,Mercedes,18,6.0,44.0,133.0
+2025,9,23,Alexander Albon,Williams,19,11.0,42.0,54.0
+2025,10,63,George Russell,Mercedes,1,1.0,101.0,145.0
+2025,10,1,Max Verstappen,Red Bull Racing,2,2.0,131.0,135.0
+2025,10,12,Kimi Antonelli,Mercedes,3,4.0,44.0,145.0
+2025,10,81,Oscar Piastri,McLaren,4,3.0,172.0,339.0
+2025,10,16,Charles Leclerc,Ferrari,5,8.0,90.0,147.0
+2025,10,44,Lewis Hamilton,Ferrari,6,5.0,57.0,147.0
+2025,10,14,Fernando Alonso,Aston Martin,7,6.0,2.0,12.0
+2025,10,27,Nico Hulkenberg,Sauber,8,11.0,16.0,16.0
+2025,10,31,Esteban Ocon,Haas F1 Team,9,14.0,20.0,26.0
+2025,10,55,Carlos Sainz,Williams,10,16.0,12.0,54.0
+2025,10,87,Oliver Bearman,Haas F1 Team,11,13.0,6.0,26.0
+2025,10,22,Yuki Tsunoda,Red Bull Racing,12,18.0,4.0,135.0
+2025,10,43,Franco Colapinto,Alpine,13,10.0,0.0,10.0
+2025,10,5,Gabriel Bortoleto,Sauber,14,15.0,0.0,16.0
+2025,10,10,Pierre Gasly,Alpine,15,20.0,10.0,10.0
+2025,10,6,Isack Hadjar,RB F1 Team,16,12.0,21.0,25.0
+2025,10,18,Lance Stroll,Aston Martin,17,17.0,10.0,12.0
+2025,10,4,Lando Norris,McLaren,18,7.0,167.0,339.0
+2025,10,30,Liam Lawson,RB F1 Team,19,19.0,4.0,25.0
+2025,10,23,Alexander Albon,Williams,20,9.0,42.0,54.0
+2025,11,4,Lando Norris,McLaren,1,1.0,167.0,351.0
+2025,11,81,Oscar Piastri,McLaren,2,3.0,184.0,351.0
+2025,11,16,Charles Leclerc,Ferrari,3,2.0,100.0,165.0
+2025,11,44,Lewis Hamilton,Ferrari,4,4.0,65.0,165.0
+2025,11,63,George Russell,Mercedes,5,5.0,126.0,185.0
+2025,11,30,Liam Lawson,RB F1 Team,6,6.0,4.0,25.0
+2025,11,14,Fernando Alonso,Aston Martin,7,11.0,8.0,18.0
+2025,11,5,Gabriel Bortoleto,Sauber,8,8.0,0.0,20.0
+2025,11,27,Nico Hulkenberg,Sauber,9,20.0,20.0,20.0
+2025,11,31,Esteban Ocon,Haas F1 Team,10,17.0,22.0,28.0
+2025,11,87,Oliver Bearman,Haas F1 Team,11,15.0,6.0,28.0
+2025,11,6,Isack Hadjar,RB F1 Team,12,13.0,21.0,25.0
+2025,11,10,Pierre Gasly,Alpine,13,10.0,10.0,10.0
+2025,11,18,Lance Stroll,Aston Martin,14,16.0,10.0,18.0
+2025,11,43,Franco Colapinto,Alpine,15,14.0,0.0,10.0
+2025,11,22,Yuki Tsunoda,Red Bull Racing,16,18.0,4.0,153.0
+2025,11,23,Alexander Albon,Williams,17,12.0,42.0,55.0
+2025,11,1,Max Verstappen,Red Bull Racing,18,7.0,149.0,153.0
+2025,11,12,Kimi Antonelli,Mercedes,19,9.0,59.0,185.0
+2025,11,55,Carlos Sainz,Williams,20,19.0,13.0,55.0
+2025,12,4,Lando Norris,McLaren,1,3.0,192.0,394.0
+2025,12,81,Oscar Piastri,McLaren,2,2.0,202.0,394.0
+2025,12,27,Nico Hulkenberg,Sauber,3,19.0,22.0,26.0
+2025,12,44,Lewis Hamilton,Ferrari,4,5.0,77.0,192.0
+2025,12,1,Max Verstappen,Red Bull Racing,5,1.0,149.0,153.0
+2025,12,10,Pierre Gasly,Alpine,6,8.0,10.0,10.0
+2025,12,18,Lance Stroll,Aston Martin,7,17.0,10.0,24.0
+2025,12,23,Alexander Albon,Williams,8,13.0,42.0,55.0
+2025,12,14,Fernando Alonso,Aston Martin,9,7.0,14.0,24.0
+2025,12,63,George Russell,Mercedes,10,4.0,136.0,195.0
+2025,12,87,Oliver Bearman,Haas F1 Team,11,18.0,6.0,29.0
+2025,12,55,Carlos Sainz,Williams,12,9.0,13.0,55.0
+2025,12,31,Esteban Ocon,Haas F1 Team,13,14.0,23.0,29.0
+2025,12,16,Charles Leclerc,Ferrari,14,6.0,115.0,192.0
+2025,12,22,Yuki Tsunoda,Red Bull Racing,15,11.0,4.0,153.0
+2025,12,12,Kimi Antonelli,Mercedes,16,10.0,59.0,195.0
+2025,12,6,Isack Hadjar,RB F1 Team,17,12.0,21.0,33.0
+2025,12,5,Gabriel Bortoleto,Sauber,18,16.0,4.0,26.0
+2025,12,30,Liam Lawson,RB F1 Team,19,15.0,12.0,33.0
+2025,12,43,Franco Colapinto,Alpine,20,20.0,0.0,10.0
+2025,13,81,Oscar Piastri,McLaren,1,2.0,220.0,437.0
+2025,13,4,Lando Norris,McLaren,2,1.0,217.0,437.0
+2025,13,16,Charles Leclerc,Ferrari,3,3.0,115.0,204.0
+2025,13,1,Max Verstappen,Red Bull Racing,4,4.0,159.0,163.0
+2025,13,63,George Russell,Mercedes,5,6.0,137.0,196.0
+2025,13,23,Alexander Albon,Williams,6,5.0,46.0,59.0
+2025,13,44,Lewis Hamilton,Ferrari,7,18.0,89.0,204.0
+2025,13,30,Liam Lawson,RB F1 Team,8,9.0,12.0,33.0
+2025,13,5,Gabriel Bortoleto,Sauber,9,10.0,4.0,41.0
+2025,13,10,Pierre Gasly,Alpine,10,13.0,18.0,18.0
+2025,13,87,Oliver Bearman,Haas F1 Team,11,12.0,6.0,29.0
+2025,13,27,Nico Hulkenberg,Sauber,12,14.0,37.0,41.0
+2025,13,22,Yuki Tsunoda,Red Bull Racing,13,7.0,4.0,163.0
+2025,13,18,Lance Stroll,Aston Martin,14,16.0,16.0,32.0
+2025,13,31,Esteban Ocon,Haas F1 Team,15,11.0,23.0,29.0
+2025,13,12,Kimi Antonelli,Mercedes,16,19.0,59.0,196.0
+2025,13,14,Fernando Alonso,Aston Martin,17,20.0,16.0,32.0
+2025,13,55,Carlos Sainz,Williams,18,17.0,13.0,59.0
+2025,13,43,Franco Colapinto,Alpine,19,15.0,0.0,18.0
+2025,13,6,Isack Hadjar,RB F1 Team,20,8.0,21.0,33.0
+2025,14,4,Lando Norris,McLaren,1,3.0,235.0,480.0
+2025,14,81,Oscar Piastri,McLaren,2,2.0,245.0,480.0
+2025,14,63,George Russell,Mercedes,3,4.0,147.0,206.0
+2025,14,16,Charles Leclerc,Ferrari,4,1.0,130.0,225.0
+2025,14,14,Fernando Alonso,Aston Martin,5,5.0,16.0,32.0
+2025,14,5,Gabriel Bortoleto,Sauber,6,7.0,6.0,43.0
+2025,14,18,Lance Stroll,Aston Martin,7,6.0,16.0,32.0
+2025,14,30,Liam Lawson,RB F1 Team,8,9.0,16.0,37.0
+2025,14,1,Max Verstappen,Red Bull Racing,9,8.0,171.0,175.0
+2025,14,12,Kimi Antonelli,Mercedes,10,15.0,59.0,206.0
+2025,14,6,Isack Hadjar,RB F1 Team,11,10.0,21.0,37.0
+2025,14,44,Lewis Hamilton,Ferrari,12,12.0,95.0,225.0
+2025,14,27,Nico Hulkenberg,Sauber,13,18.0,37.0,43.0
+2025,14,55,Carlos Sainz,Williams,14,13.0,13.0,67.0
+2025,14,23,Alexander Albon,Williams,15,19.0,54.0,67.0
+2025,14,31,Esteban Ocon,Haas F1 Team,16,17.0,23.0,29.0
+2025,14,22,Yuki Tsunoda,Red Bull Racing,17,20.0,4.0,175.0
+2025,14,43,Franco Colapinto,Alpine,18,14.0,0.0,19.0
+2025,14,10,Pierre Gasly,Alpine,19,16.0,19.0,19.0
+2025,14,87,Oliver Bearman,Haas F1 Team,20,11.0,6.0,29.0
+2025,15,81,Oscar Piastri,McLaren,1,1.0,263.0,523.0
+2025,15,1,Max Verstappen,Red Bull Racing,2,3.0,173.0,177.0
+2025,15,6,Isack Hadjar,RB F1 Team,3,4.0,21.0,41.0
+2025,15,63,George Russell,Mercedes,4,5.0,162.0,222.0
+2025,15,23,Alexander Albon,Williams,5,15.0,54.0,67.0
+2025,15,87,Oliver Bearman,Haas F1 Team,6,20.0,6.0,29.0
+2025,15,18,Lance Stroll,Aston Martin,7,19.0,22.0,48.0
+2025,15,14,Fernando Alonso,Aston Martin,8,10.0,26.0,48.0
+2025,15,22,Yuki Tsunoda,Red Bull Racing,9,12.0,4.0,177.0
+2025,15,31,Esteban Ocon,Haas F1 Team,10,18.0,23.0,29.0
+2025,15,43,Franco Colapinto,Alpine,11,16.0,0.0,19.0
+2025,15,30,Liam Lawson,RB F1 Team,12,8.0,20.0,41.0
+2025,15,55,Carlos Sainz,Williams,13,9.0,13.0,67.0
+2025,15,27,Nico Hulkenberg,Sauber,14,17.0,37.0,51.0
+2025,15,5,Gabriel Bortoleto,Sauber,15,13.0,14.0,51.0
+2025,15,12,Kimi Antonelli,Mercedes,16,11.0,60.0,222.0
+2025,15,10,Pierre Gasly,Alpine,17,14.0,19.0,19.0
+2025,15,4,Lando Norris,McLaren,18,2.0,260.0,523.0
+2025,15,16,Charles Leclerc,Ferrari,19,6.0,142.0,237.0
+2025,15,44,Lewis Hamilton,Ferrari,20,7.0,95.0,237.0
+2025,16,1,Max Verstappen,Red Bull Racing,1,1.0,191.0,197.0
+2025,16,4,Lando Norris,McLaren,2,2.0,260.0,548.0
+2025,16,81,Oscar Piastri,McLaren,3,3.0,288.0,548.0
+2025,16,16,Charles Leclerc,Ferrari,4,4.0,142.0,237.0
+2025,16,63,George Russell,Mercedes,5,5.0,174.0,234.0
+2025,16,44,Lewis Hamilton,Ferrari,6,10.0,95.0,237.0
+2025,16,23,Alexander Albon,Williams,7,14.0,64.0,77.0
+2025,16,5,Gabriel Bortoleto,Sauber,8,7.0,14.0,51.0
+2025,16,12,Kimi Antonelli,Mercedes,9,6.0,60.0,234.0
+2025,16,6,Isack Hadjar,RB F1 Team,10,19.0,36.0,56.0
+2025,16,55,Carlos Sainz,Williams,11,13.0,13.0,77.0
+2025,16,87,Oliver Bearman,Haas F1 Team,12,11.0,14.0,38.0
+2025,16,22,Yuki Tsunoda,Red Bull Racing,13,9.0,6.0,197.0
+2025,16,30,Liam Lawson,RB F1 Team,14,18.0,20.0,56.0
+2025,16,31,Esteban Ocon,Haas F1 Team,15,15.0,24.0,38.0
+2025,16,10,Pierre Gasly,Alpine,16,20.0,19.0,19.0
+2025,16,43,Franco Colapinto,Alpine,17,17.0,0.0,19.0
+2025,16,18,Lance Stroll,Aston Martin,18,16.0,28.0,58.0
+2025,16,14,Fernando Alonso,Aston Martin,19,8.0,30.0,58.0
+2025,16,27,Nico Hulkenberg,Sauber,20,12.0,37.0,51.0
+2025,17,1,Max Verstappen,Red Bull Racing,1,1.0,216.0,222.0
+2025,17,63,George Russell,Mercedes,2,5.0,184.0,246.0
+2025,17,55,Carlos Sainz,Williams,3,2.0,13.0,83.0
+2025,17,12,Kimi Antonelli,Mercedes,4,4.0,62.0,246.0
+2025,17,30,Liam Lawson,RB F1 Team,5,3.0,20.0,57.0
+2025,17,22,Yuki Tsunoda,Red Bull Racing,6,6.0,6.0,222.0
+2025,17,4,Lando Norris,McLaren,7,7.0,278.0,581.0
+2025,17,44,Lewis Hamilton,Ferrari,8,12.0,103.0,257.0
+2025,17,16,Charles Leclerc,Ferrari,9,10.0,154.0,257.0
+2025,17,6,Isack Hadjar,RB F1 Team,10,8.0,37.0,57.0
+2025,17,5,Gabriel Bortoleto,Sauber,11,13.0,18.0,55.0
+2025,17,87,Oliver Bearman,Haas F1 Team,12,15.0,14.0,38.0
+2025,17,23,Alexander Albon,Williams,13,19.0,70.0,83.0
+2025,17,31,Esteban Ocon,Haas F1 Team,14,20.0,24.0,38.0
+2025,17,14,Fernando Alonso,Aston Martin,15,11.0,30.0,58.0
+2025,17,27,Nico Hulkenberg,Sauber,16,17.0,37.0,55.0
+2025,17,18,Lance Stroll,Aston Martin,17,14.0,28.0,58.0
+2025,17,10,Pierre Gasly,Alpine,18,18.0,19.0,19.0
+2025,17,43,Franco Colapinto,Alpine,19,16.0,0.0,19.0
+2025,17,81,Oscar Piastri,McLaren,20,9.0,303.0,581.0
+2025,18,63,George Russell,Mercedes,1,1.0,202.0,276.0
+2025,18,1,Max Verstappen,Red Bull Racing,2,2.0,241.0,255.0
+2025,18,4,Lando Norris,McLaren,3,5.0,284.0,587.0
+2025,18,81,Oscar Piastri,McLaren,4,3.0,303.0,587.0
+2025,18,12,Kimi Antonelli,Mercedes,5,4.0,74.0,276.0
+2025,18,16,Charles Leclerc,Ferrari,6,7.0,156.0,263.0
+2025,18,14,Fernando Alonso,Aston Martin,7,10.0,30.0,58.0
+2025,18,44,Lewis Hamilton,Ferrari,8,6.0,107.0,263.0
+2025,18,87,Oliver Bearman,Haas F1 Team,9,9.0,14.0,38.0
+2025,18,55,Carlos Sainz,Williams,10,18.0,28.0,98.0
+2025,18,6,Isack Hadjar,RB F1 Team,11,8.0,38.0,68.0
+2025,18,22,Yuki Tsunoda,Red Bull Racing,12,13.0,14.0,255.0
+2025,18,18,Lance Stroll,Aston Martin,13,15.0,28.0,58.0
+2025,18,23,Alexander Albon,Williams,14,20.0,70.0,98.0
+2025,18,30,Liam Lawson,RB F1 Team,15,12.0,30.0,68.0
+2025,18,43,Franco Colapinto,Alpine,16,16.0,0.0,19.0
+2025,18,5,Gabriel Bortoleto,Sauber,17,14.0,18.0,55.0
+2025,18,31,Esteban Ocon,Haas F1 Team,18,17.0,24.0,38.0
+2025,18,10,Pierre Gasly,Alpine,19,19.0,19.0,19.0
+2025,18,27,Nico Hulkenberg,Sauber,20,11.0,37.0,55.0
+2025,19,1,Max Verstappen,Red Bull Racing,1,1.0,259.0,273.0
+2025,19,4,Lando Norris,McLaren,2,2.0,299.0,614.0
+2025,19,16,Charles Leclerc,Ferrari,3,3.0,164.0,275.0
+2025,19,44,Lewis Hamilton,Ferrari,4,5.0,111.0,275.0
+2025,19,81,Oscar Piastri,McLaren,5,6.0,315.0,614.0
+2025,19,63,George Russell,Mercedes,6,4.0,227.0,311.0
+2025,19,22,Yuki Tsunoda,Red Bull Racing,7,13.0,14.0,273.0
+2025,19,27,Nico Hulkenberg,Sauber,8,11.0,37.0,55.0
+2025,19,87,Oliver Bearman,Haas F1 Team,9,8.0,16.0,40.0
+2025,19,14,Fernando Alonso,Aston Martin,10,10.0,36.0,64.0
+2025,19,30,Liam Lawson,RB F1 Team,11,12.0,30.0,68.0
+2025,19,18,Lance Stroll,Aston Martin,12,19.0,28.0,64.0
+2025,19,12,Kimi Antonelli,Mercedes,13,7.0,84.0,311.0
+2025,19,23,Alexander Albon,Williams,14,18.0,70.0,99.0
+2025,19,31,Esteban Ocon,Haas F1 Team,15,17.0,24.0,40.0
+2025,19,6,Isack Hadjar,RB F1 Team,16,20.0,38.0,68.0
+2025,19,43,Franco Colapinto,Alpine,17,15.0,0.0,19.0
+2025,19,5,Gabriel Bortoleto,Sauber,18,16.0,18.0,55.0
+2025,19,10,Pierre Gasly,Alpine,19,14.0,19.0,19.0
+2025,19,55,Carlos Sainz,Williams,20,9.0,29.0,99.0
+2025,20,4,Lando Norris,McLaren,1,1.0,317.0,642.0
+2025,20,16,Charles Leclerc,Ferrari,2,2.0,179.0,302.0
+2025,20,1,Max Verstappen,Red Bull Racing,3,5.0,284.0,304.0
+2025,20,87,Oliver Bearman,Haas F1 Team,4,9.0,18.0,42.0
+2025,20,81,Oscar Piastri,McLaren,5,7.0,325.0,642.0
+2025,20,12,Kimi Antonelli,Mercedes,6,6.0,84.0,319.0
+2025,20,63,George Russell,Mercedes,7,4.0,235.0,319.0
+2025,20,44,Lewis Hamilton,Ferrari,8,3.0,123.0,302.0
+2025,20,31,Esteban Ocon,Haas F1 Team,9,11.0,24.0,42.0
+2025,20,5,Gabriel Bortoleto,Sauber,10,16.0,18.0,59.0
+2025,20,22,Yuki Tsunoda,Red Bull Racing,11,10.0,20.0,304.0
+2025,20,23,Alexander Albon,Williams,12,17.0,70.0,99.0
+2025,20,6,Isack Hadjar,RB F1 Team,13,8.0,38.0,68.0
+2025,20,18,Lance Stroll,Aston Martin,14,19.0,28.0,65.0
+2025,20,10,Pierre Gasly,Alpine,15,18.0,19.0,19.0
+2025,20,43,Franco Colapinto,Alpine,16,20.0,0.0,19.0
+2025,20,55,Carlos Sainz,Williams,17,12.0,29.0,99.0
+2025,20,14,Fernando Alonso,Aston Martin,18,14.0,37.0,65.0
+2025,20,27,Nico Hulkenberg,Sauber,19,13.0,41.0,59.0
+2025,20,30,Liam Lawson,RB F1 Team,20,15.0,30.0,68.0
+2025,21,4,Lando Norris,McLaren,1,1.0,342.0,677.0
+2025,21,12,Kimi Antonelli,Mercedes,2,2.0,92.0,333.0
+2025,21,1,Max Verstappen,Red Bull Racing,3,19.0,299.0,319.0
+2025,21,63,George Russell,Mercedes,4,6.0,241.0,333.0
+2025,21,81,Oscar Piastri,McLaren,5,4.0,335.0,677.0
+2025,21,87,Oliver Bearman,Haas F1 Team,6,8.0,30.0,56.0
+2025,21,30,Liam Lawson,RB F1 Team,7,7.0,30.0,68.0
+2025,21,6,Isack Hadjar,RB F1 Team,8,5.0,38.0,68.0
+2025,21,27,Nico Hulkenberg,Sauber,9,10.0,41.0,60.0
+2025,21,10,Pierre Gasly,Alpine,10,9.0,19.0,19.0
+2025,21,23,Alexander Albon,Williams,11,12.0,70.0,99.0
+2025,21,31,Esteban Ocon,Haas F1 Team,12,20.0,26.0,56.0
+2025,21,55,Carlos Sainz,Williams,13,15.0,29.0,99.0
+2025,21,14,Fernando Alonso,Aston Martin,14,11.0,37.0,65.0
+2025,21,43,Franco Colapinto,Alpine,15,16.0,0.0,19.0
+2025,21,18,Lance Stroll,Aston Martin,16,14.0,28.0,65.0
+2025,21,22,Yuki Tsunoda,Red Bull Racing,17,17.0,20.0,319.0
+2025,21,44,Lewis Hamilton,Ferrari,18,13.0,127.0,324.0
+2025,21,16,Charles Leclerc,Ferrari,19,3.0,197.0,324.0
+2025,21,5,Gabriel Bortoleto,Sauber,20,18.0,19.0,60.0

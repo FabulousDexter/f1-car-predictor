@@ -1,0 +1,4 @@
+# File paths for the project
+data:
+  raw_results_cleaned: "data/f1_all_session_race_results_clean.csv"
+  model_features: "data/f1_model_features.csv"
