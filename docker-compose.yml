@@ -1,0 +1,68 @@
+services:
+  # F1 Prediction Training Service
+  f1-training:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: f1-training
+    volumes:
+      # Mount data directory for persistence
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./f1_cache:/app/f1_cache
+    environment:
+      - MODE=training
+    command: python src/f1_prediction_flow.py --mode training
+    restart: on-failure
+
+  # F1 Prediction Service (full pipeline)
+  f1-full-pipeline:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: f1-full-pipeline
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+      - ./f1_cache:/app/f1_cache
+    environment:
+      - MODE=full
+    command: python src/f1_prediction_flow.py --mode full
+    restart: on-failure
+    profiles:
+      - full
+
+  # F1 Prediction Only Service
+  f1-prediction:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: f1-prediction
+    volumes:
+      - ./data:/app/data
+      - ./models:/app/models
+    environment:
+      - MODE=prediction
+      - YEAR=2025
+      - ROUND=22
+    command: python src/f1_prediction_flow.py --mode prediction --year 2025 --round 22
+    restart: on-failure
+    profiles:
+      - prediction
+
+  # Prefect Server (optional - for UI)
+  prefect-server:
+    image: prefecthq/prefect:3-latest
+    container_name: prefect-server
+    ports:
+      - "4200:4200"
+    environment:
+      - PREFECT_API_URL=http://prefect-server:4200/api
+    command: prefect server start --host 0.0.0.0
+    profiles:
+      - server
+
+volumes:
+  data:
+  models:
+  f1_cache:
