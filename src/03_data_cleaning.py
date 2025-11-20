@@ -127,7 +127,7 @@ def clean_race_results(input_file, output_file):
     if "Points" in df.columns:
         df["Points"] = pd.to_numeric(df["Points"], errors="coerce").fillna(0)
 
-    print(f"  ✓ Data types converted")
+    print(f"   Data types converted")
 
     # Step 4: Standardize team names
     print("\n[4/7] Standardizing team names...")
@@ -207,7 +207,7 @@ def clean_race_results(input_file, output_file):
     print(
         f"Removed:     {initial_rows - len(df)} ({((initial_rows - len(df))/initial_rows*100):.1f}%)"
     )
-    print(f"\n✅ Cleaned data saved to: {output_file}")
+    print(f"\n Cleaned data saved to: {output_file}")
 
     return df
 
@@ -313,7 +313,7 @@ def clean_lap_times(input_file, output_file):
     print(
         f"Removed:     {initial_rows - len(df)} ({((initial_rows - len(df))/initial_rows*100):.1f}%)"
     )
-    print(f"\n✅ Cleaned lap times saved to: {output_file}")
+    print(f"\n Cleaned lap times saved to: {output_file}")
 
     return df
 
@@ -333,7 +333,7 @@ if __name__ == "__main__":
     )
 
     print("\n" + "=" * 60)
-    print("✅ DATA CLEANING COMPLETE!")
+    print(" DATA CLEANING COMPLETE!")
     print("=" * 60)
     print("\nNext step: Run feature engineering")
     print("  python src/04_feature_engineering.py")
